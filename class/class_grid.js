@@ -1,7 +1,10 @@
 class Class_Grid extends Class_Sprite{
-    constructor(canvas, context, origin_x=0, origin_y=0, color="Black"){
+    constructor(canvas, context, a_axis_title_x="title_x", a_axis_title_y="title_y", origin_x=40, origin_y=40, color="Black"){
         // x and y are measured with respect to the bottom left corner of the canvas in pixels
         super(canvas, context, origin_x, origin_y, canvas.width, canvas.height, color);
+
+        this.axis_title_x = a_axis_title_x;
+        this.axis_title_y = a_axis_title_y;
 
         this.tick_separation_math = new Class_Vector(1, 1); 
         this.tick_separation_grid = new Class_Vector(50, 50);
@@ -80,6 +83,7 @@ class Class_Grid extends Class_Sprite{
     draw(){
         this.draw_grid();
         this.draw_axis();
+        this.draw_axis_title();
     }
 
     draw_axis(){
@@ -93,6 +97,29 @@ class Class_Grid extends Class_Sprite{
             context.lineWidth = 3;
             context.strokeStyle = this.color;
             context.stroke();
+        context.restore();
+    }
+
+    draw_axis_title(){
+        // x-axis title
+        context.save();
+            context.translate(this.x_grid_max/2, -23);
+            context.scale(1, -1);
+            context.textAlign = "center";
+            context.textBaseline = "middle";
+            context.font = "15px Arial";
+            context.fillText(this.axis_title_x, 0, 0);
+        context.restore();
+
+        // y-axis title
+        context.save();
+            context.translate(-23, this.y_grid_max/2);
+            context.rotate(Math.PI / 2);
+            context.scale(1, -1);
+            context.textAlign = "center";
+            context.textBaseline = "middle";
+            context.font = "15px Arial";
+            context.fillText(this.axis_title_y, 0, 0);
         context.restore();
     }
 
