@@ -55,6 +55,17 @@ function setup_data(){
     //     object_general.name_in_chinese = array_translate[2];
     // });
 
+    
+    // array_data_general.forEach(object_general=>{
+    //     if (object_general.gender === "F"){
+    //         object_general.gender_as_number = 20;
+    //     } else {
+    //         object_general.gender_as_number = 80;
+    //     }
+    // });
+
+    // console.log(array_data_general);
+
     // Put empty arrays into the dictionary
     array_stats_type.forEach(stats_type => {
         dictionary_of_array_stats[stats_type] = [];
@@ -514,7 +525,22 @@ function caluculate_r_squared(a_array_x, a_array_y){
 }
 
 
+//**********************************************************************************************//
+// COORDINATE TRANSFORMATION                                                                    //
+// xy_canvas is measured from the top left corner (x points right, y points down)               //
+// xy_bottom_left is measured from the bottom left corner (x points right, y points up)         //
+// xy_grid is measured from the grid origin (x points right, y points up)                       //
+// xy_math is the actual values being plotted                                                   //
+//                                                                                              //
+//**********************************************************************************************//
 
+function xy_bottom_left_from_canvas(a_xy_canvas){
+    return new Class_Vector(a_xy_canvas.x, canvas.height - a_xy_canvas.y);
+}
+
+function xy_canvas_from_bottom_left(a_xy_bottom_left){
+    return new Class_Vector(a_xy_bottom_left.x, canvas.height - a_xy_bottom_left.y);
+}
 
 function xy_bottom_left_from_grid(a_xy_grid){
     return a_xy_grid.plus(grid.origin);
@@ -531,6 +557,15 @@ function xy_grid_from_math(a_xy_math){
 function xy_math_from_grid(a_xy_grid){
     return new Class_Vector(a_xy_grid.x*grid.factor_math_from_grid.x, a_xy_grid.y*grid.factor_math_from_grid.y);
 }
+
+function xy_math_from_grid(a_xy_grid){
+    return new Class_Vector(a_xy_grid.x*grid.factor_math_from_grid.x, a_xy_grid.y*grid.factor_math_from_grid.y);
+}
+
+function xy_math_from_canvas(a_xy_canvas){
+    return xy_math_from_grid(xy_grid_from_bottom_left(xy_bottom_left_from_canvas(a_xy_canvas)));
+}
+
 
 
 

@@ -1,4 +1,4 @@
-var array_data_general = [
+const array_data_general = [
     {
         "id": 1100491,
         "name": "Jiang Fu",
@@ -24,7 +24,8 @@ var array_data_general = [
         ],
         "prefectId": 2300006,
         "warlordId": 2200022,
-        "name_in_chinese": "姜甫"
+        "name_in_chinese": "姜甫",
+        "gender_as_number": 80
     },
     {
         "id": 1100493,
@@ -51,7 +52,8 @@ var array_data_general = [
         ],
         "prefectId": 2300008,
         "warlordId": 2200026,
-        "name_in_chinese": "曼基"
+        "name_in_chinese": "曼基",
+        "gender_as_number": 80
     },
     {
         "id": 1100492,
@@ -78,7 +80,8 @@ var array_data_general = [
         ],
         "prefectId": 2300006,
         "warlordId": 2200044,
-        "name_in_chinese": "刘宫"
+        "name_in_chinese": "刘宫",
+        "gender_as_number": 80
     },
     {
         "id": 1100007,
@@ -105,7 +108,8 @@ var array_data_general = [
         ],
         "prefectId": 2300012,
         "warlordId": 2200008,
-        "name_in_chinese": "夏侯渊"
+        "name_in_chinese": "夏侯渊",
+        "gender_as_number": 80
     },
     {
         "id": 1100002,
@@ -132,7 +136,8 @@ var array_data_general = [
         ],
         "prefectId": 2300006,
         "warlordId": 2200023,
-        "name_in_chinese": "夏侯惇"
+        "name_in_chinese": "夏侯惇",
+        "gender_as_number": 80
     },
     {
         "id": 1100011,
@@ -159,7 +164,8 @@ var array_data_general = [
         ],
         "prefectId": 2300009,
         "warlordId": 2200033,
-        "name_in_chinese": "乐进"
+        "name_in_chinese": "乐进",
+        "gender_as_number": 80
     },
     {
         "id": 1100012,
@@ -186,7 +192,8 @@ var array_data_general = [
         ],
         "prefectId": 2300011,
         "warlordId": 2200006,
-        "name_in_chinese": "李典"
+        "name_in_chinese": "李典",
+        "gender_as_number": 80
     },
     {
         "id": 1100013,
@@ -213,7 +220,8 @@ var array_data_general = [
         ],
         "prefectId": 2300009,
         "warlordId": 2200045,
-        "name_in_chinese": "曹洪"
+        "name_in_chinese": "曹洪",
+        "gender_as_number": 80
     },
     {
         "id": 1100006,
@@ -240,7 +248,8 @@ var array_data_general = [
         ],
         "prefectId": 2300007,
         "warlordId": 2200006,
-        "name_in_chinese": "曹仁"
+        "name_in_chinese": "曹仁",
+        "gender_as_number": 80
     },
     {
         "id": 1100017,
@@ -267,7 +276,8 @@ var array_data_general = [
         ],
         "prefectId": 2300010,
         "warlordId": 2200025,
-        "name_in_chinese": "典韦"
+        "name_in_chinese": "典韦",
+        "gender_as_number": 80
     },
     {
         "id": 1100021,
@@ -294,7 +304,8 @@ var array_data_general = [
         ],
         "prefectId": 2300014,
         "warlordId": 2200006,
-        "name_in_chinese": "荀彧"
+        "name_in_chinese": "荀彧",
+        "gender_as_number": 80
     },
     {
         "id": 1100025,
@@ -321,7 +332,8 @@ var array_data_general = [
         ],
         "prefectId": 2300013,
         "warlordId": 2200006,
-        "name_in_chinese": "荀攸"
+        "name_in_chinese": "荀攸",
+        "gender_as_number": 80
     },
     {
         "id": 1100001,
@@ -348,7 +360,8 @@ var array_data_general = [
         ],
         "prefectId": 2300002,
         "warlordId": 2200024,
-        "name_in_chinese": "曹操"
+        "name_in_chinese": "曹操",
+        "gender_as_number": 80
     },
     {
         "id": 1100023,
@@ -375,7 +388,8 @@ var array_data_general = [
         ],
         "prefectId": 2300009,
         "warlordId": 2200005,
-        "name_in_chinese": "郭嘉"
+        "name_in_chinese": "郭嘉",
+        "gender_as_number": 80
     },
     {
         "id": 1100022,
@@ -402,7 +416,8 @@ var array_data_general = [
         ],
         "prefectId": 2300010,
         "warlordId": 2200006,
-        "name_in_chinese": "程昱"
+        "name_in_chinese": "程昱",
+        "gender_as_number": 80
     },
     {
         "id": 1100015,
@@ -429,7 +444,8 @@ var array_data_general = [
         ],
         "prefectId": 2300008,
         "warlordId": 2200006,
-        "name_in_chinese": "于禁"
+        "name_in_chinese": "于禁",
+        "gender_as_number": 80
     },
     {
         "id": 1100019,
@@ -456,7 +472,8 @@ var array_data_general = [
         ],
         "prefectId": 2300016,
         "warlordId": 2200035,
-        "name_in_chinese": "刘晔"
+        "name_in_chinese": "刘晔",
+        "gender_as_number": 80
     },
     {
         "id": 1100016,
@@ -483,7 +500,8 @@ var array_data_general = [
         ],
         "prefectId": 2300009,
         "warlordId": 2200023,
-        "name_in_chinese": "许褚"
+        "name_in_chinese": "许褚",
+        "gender_as_number": 80
     },
     {
         "id": 1100014,
@@ -510,7 +528,8 @@ var array_data_general = [
         ],
         "prefectId": 2300006,
         "warlordId": 2200025,
-        "name_in_chinese": "徐晃"
+        "name_in_chinese": "徐晃",
+        "gender_as_number": 80
     },
     {
         "id": 1100026,
@@ -537,7 +556,8 @@ var array_data_general = [
         ],
         "prefectId": 2300009,
         "warlordId": 2200006,
-        "name_in_chinese": "满宠"
+        "name_in_chinese": "满宠",
+        "gender_as_number": 80
     },
     {
         "id": 1100018,
@@ -564,7 +584,8 @@ var array_data_general = [
         ],
         "prefectId": 2300006,
         "warlordId": 2200020,
-        "name_in_chinese": "貂蝉"
+        "name_in_chinese": "貂蝉",
+        "gender_as_number": 20
     },
     {
         "id": 1100003,
@@ -591,7 +612,8 @@ var array_data_general = [
         ],
         "prefectId": 2300008,
         "warlordId": 2200029,
-        "name_in_chinese": "张辽"
+        "name_in_chinese": "张辽",
+        "gender_as_number": 80
     },
     {
         "id": 1100024,
@@ -618,7 +640,8 @@ var array_data_general = [
         ],
         "prefectId": 2300011,
         "warlordId": 2200046,
-        "name_in_chinese": "贾诩"
+        "name_in_chinese": "贾诩",
+        "gender_as_number": 80
     },
     {
         "id": 1100008,
@@ -645,7 +668,8 @@ var array_data_general = [
         ],
         "prefectId": 2300009,
         "warlordId": 2200046,
-        "name_in_chinese": "张合"
+        "name_in_chinese": "张合",
+        "gender_as_number": 80
     },
     {
         "id": 1100009,
@@ -672,7 +696,8 @@ var array_data_general = [
         ],
         "prefectId": 2300011,
         "warlordId": 2200006,
-        "name_in_chinese": "曹丕"
+        "name_in_chinese": "曹丕",
+        "gender_as_number": 80
     },
     {
         "id": 1100020,
@@ -699,7 +724,8 @@ var array_data_general = [
         ],
         "prefectId": 2300001,
         "warlordId": 2200001,
-        "name_in_chinese": "司马懿"
+        "name_in_chinese": "司马懿",
+        "gender_as_number": 80
     },
     {
         "id": 1100947,
@@ -726,7 +752,8 @@ var array_data_general = [
         ],
         "prefectId": 2300001,
         "warlordId": 2200005,
-        "name_in_chinese": "严政"
+        "name_in_chinese": "严政",
+        "gender_as_number": 80
     },
     {
         "id": 1100773,
@@ -753,7 +780,8 @@ var array_data_general = [
         ],
         "prefectId": 2300007,
         "warlordId": 2200005,
-        "name_in_chinese": "裴元绍"
+        "name_in_chinese": "裴元绍",
+        "gender_as_number": 80
     },
     {
         "id": 1100649,
@@ -780,7 +808,8 @@ var array_data_general = [
         ],
         "prefectId": 2300011,
         "warlordId": 2200026,
-        "name_in_chinese": "龚都"
+        "name_in_chinese": "龚都",
+        "gender_as_number": 80
     },
     {
         "id": 1100946,
@@ -807,7 +836,8 @@ var array_data_general = [
         ],
         "prefectId": 2300009,
         "warlordId": 2200005,
-        "name_in_chinese": "高升"
+        "name_in_chinese": "高升",
+        "gender_as_number": 80
     },
     {
         "id": 1100944,
@@ -834,7 +864,8 @@ var array_data_general = [
         ],
         "prefectId": 2300011,
         "warlordId": 2200030,
-        "name_in_chinese": "程远志"
+        "name_in_chinese": "程远志",
+        "gender_as_number": 80
     },
     {
         "id": 1100486,
@@ -861,7 +892,8 @@ var array_data_general = [
         ],
         "prefectId": 2300002,
         "warlordId": 2200001,
-        "name_in_chinese": "何皇后"
+        "name_in_chinese": "何皇后",
+        "gender_as_number": 20
     },
     {
         "id": 1100715,
@@ -888,7 +920,8 @@ var array_data_general = [
         ],
         "prefectId": 2300008,
         "warlordId": 2200020,
-        "name_in_chinese": "张卫"
+        "name_in_chinese": "张卫",
+        "gender_as_number": 80
     },
     {
         "id": 1100714,
@@ -915,7 +948,8 @@ var array_data_general = [
         ],
         "prefectId": 2300013,
         "warlordId": 2200046,
-        "name_in_chinese": "张鲁"
+        "name_in_chinese": "张鲁",
+        "gender_as_number": 80
     },
     {
         "id": 1100716,
@@ -942,7 +976,8 @@ var array_data_general = [
         ],
         "prefectId": 2300006,
         "warlordId": 2200041,
-        "name_in_chinese": "阎圃"
+        "name_in_chinese": "阎圃",
+        "gender_as_number": 80
     },
     {
         "id": 1100752,
@@ -969,7 +1004,8 @@ var array_data_general = [
         ],
         "prefectId": 2300001,
         "warlordId": 2200024,
-        "name_in_chinese": "何进"
+        "name_in_chinese": "何进",
+        "gender_as_number": 80
     },
     {
         "id": 1100272,
@@ -996,7 +1032,8 @@ var array_data_general = [
         ],
         "prefectId": 2300007,
         "warlordId": 2200025,
-        "name_in_chinese": "管亥"
+        "name_in_chinese": "管亥",
+        "gender_as_number": 80
     },
     {
         "id": 1100648,
@@ -1023,7 +1060,8 @@ var array_data_general = [
         ],
         "prefectId": 2300002,
         "warlordId": 2200048,
-        "name_in_chinese": "刘辟"
+        "name_in_chinese": "刘辟",
+        "gender_as_number": 80
     },
     {
         "id": 1100721,
@@ -1050,7 +1088,8 @@ var array_data_general = [
         ],
         "prefectId": 2300015,
         "warlordId": 2200005,
-        "name_in_chinese": "张梁"
+        "name_in_chinese": "张梁",
+        "gender_as_number": 80
     },
     {
         "id": 1100720,
@@ -1077,7 +1116,8 @@ var array_data_general = [
         ],
         "prefectId": 2300009,
         "warlordId": 2200023,
-        "name_in_chinese": "张宝"
+        "name_in_chinese": "张宝",
+        "gender_as_number": 80
     },
     {
         "id": 1100945,
@@ -1104,7 +1144,8 @@ var array_data_general = [
         ],
         "prefectId": 2300013,
         "warlordId": 2200022,
-        "name_in_chinese": "波才"
+        "name_in_chinese": "波才",
+        "gender_as_number": 80
     },
     {
         "id": 1100739,
@@ -1131,7 +1172,8 @@ var array_data_general = [
         ],
         "prefectId": 2300006,
         "warlordId": 2200007,
-        "name_in_chinese": "张曼成"
+        "name_in_chinese": "张曼成",
+        "gender_as_number": 80
     },
     {
         "id": 1100391,
@@ -1158,7 +1200,8 @@ var array_data_general = [
         ],
         "prefectId": 2300003,
         "warlordId": 2200024,
-        "name_in_chinese": "张角"
+        "name_in_chinese": "张角",
+        "gender_as_number": 80
     },
     {
         "id": 1100710,
@@ -1185,7 +1228,8 @@ var array_data_general = [
         ],
         "prefectId": 2300001,
         "warlordId": 2200001,
-        "name_in_chinese": "袁术"
+        "name_in_chinese": "袁术",
+        "gender_as_number": 80
     },
     {
         "id": 1100270,
@@ -1212,7 +1256,8 @@ var array_data_general = [
         ],
         "prefectId": 2300006,
         "warlordId": 2200040,
-        "name_in_chinese": "高柔"
+        "name_in_chinese": "高柔",
+        "gender_as_number": 80
     },
     {
         "id": 1100604,
@@ -1239,7 +1284,8 @@ var array_data_general = [
         ],
         "prefectId": 2300010,
         "warlordId": 2200045,
-        "name_in_chinese": "曹安民"
+        "name_in_chinese": "曹安民",
+        "gender_as_number": 80
     },
     {
         "id": 1100796,
@@ -1266,7 +1312,8 @@ var array_data_general = [
         ],
         "prefectId": 2300006,
         "warlordId": 2200017,
-        "name_in_chinese": "杨艳"
+        "name_in_chinese": "杨艳",
+        "gender_as_number": 20
     },
     {
         "id": 1100339,
@@ -1293,7 +1340,8 @@ var array_data_general = [
         ],
         "prefectId": 2300011,
         "warlordId": 2200019,
-        "name_in_chinese": "荀顗"
+        "name_in_chinese": "荀顗",
+        "gender_as_number": 80
     },
     {
         "id": 1100010,
@@ -1320,7 +1368,8 @@ var array_data_general = [
         ],
         "prefectId": 2300012,
         "warlordId": 2200048,
-        "name_in_chinese": "庞德"
+        "name_in_chinese": "庞德",
+        "gender_as_number": 80
     },
     {
         "id": 1100353,
@@ -1347,7 +1396,8 @@ var array_data_general = [
         ],
         "prefectId": 2300007,
         "warlordId": 2200032,
-        "name_in_chinese": "吕虔"
+        "name_in_chinese": "吕虔",
+        "gender_as_number": 80
     },
     {
         "id": 1100605,
@@ -1374,7 +1424,8 @@ var array_data_general = [
         ],
         "prefectId": 2300015,
         "warlordId": 2200045,
-        "name_in_chinese": "曹昂"
+        "name_in_chinese": "曹昂",
+        "gender_as_number": 80
     },
     {
         "id": 1100005,
@@ -1401,7 +1452,8 @@ var array_data_general = [
         ],
         "prefectId": 2300002,
         "warlordId": 2200030,
-        "name_in_chinese": "曹彰"
+        "name_in_chinese": "曹彰",
+        "gender_as_number": 80
     },
     {
         "id": 1100378,
@@ -1428,7 +1480,8 @@ var array_data_general = [
         ],
         "prefectId": 2300004,
         "warlordId": 2200030,
-        "name_in_chinese": "魏攸"
+        "name_in_chinese": "魏攸",
+        "gender_as_number": 80
     },
     {
         "id": 1100755,
@@ -1455,7 +1508,8 @@ var array_data_general = [
         ],
         "prefectId": 2300010,
         "warlordId": 2200008,
-        "name_in_chinese": "杨奉"
+        "name_in_chinese": "杨奉",
+        "gender_as_number": 80
     },
     {
         "id": 1100682,
@@ -1482,7 +1536,8 @@ var array_data_general = [
         ],
         "prefectId": 2300002,
         "warlordId": 2200028,
-        "name_in_chinese": "颜良"
+        "name_in_chinese": "颜良",
+        "gender_as_number": 80
     },
     {
         "id": 1100004,
@@ -1509,7 +1564,8 @@ var array_data_general = [
         ],
         "prefectId": 2300015,
         "warlordId": 2200002,
-        "name_in_chinese": "关羽"
+        "name_in_chinese": "关羽",
+        "gender_as_number": 80
     },
     {
         "id": 1100277,
@@ -1536,7 +1592,8 @@ var array_data_general = [
         ],
         "prefectId": 2300009,
         "warlordId": 2200011,
-        "name_in_chinese": "霍峻"
+        "name_in_chinese": "霍峻",
+        "gender_as_number": 80
     },
     {
         "id": 1100437,
@@ -1563,7 +1620,8 @@ var array_data_general = [
         ],
         "prefectId": 2300012,
         "warlordId": 2200034,
-        "name_in_chinese": "陈琳"
+        "name_in_chinese": "陈琳",
+        "gender_as_number": 80
     },
     {
         "id": 1100810,
@@ -1590,7 +1648,8 @@ var array_data_general = [
         ],
         "prefectId": 2300009,
         "warlordId": 2200012,
-        "name_in_chinese": "邢道荣"
+        "name_in_chinese": "邢道荣",
+        "gender_as_number": 80
     },
     {
         "id": 1100292,
@@ -1617,7 +1676,8 @@ var array_data_general = [
         ],
         "prefectId": 2300007,
         "warlordId": 2200031,
-        "name_in_chinese": "董承"
+        "name_in_chinese": "董承",
+        "gender_as_number": 80
     },
     {
         "id": 1100971,
@@ -1644,7 +1704,8 @@ var array_data_general = [
         ],
         "prefectId": 2300002,
         "warlordId": 2200010,
-        "name_in_chinese": "谢旌"
+        "name_in_chinese": "谢旌",
+        "gender_as_number": 80
     },
     {
         "id": 1100361,
@@ -1671,7 +1732,8 @@ var array_data_general = [
         ],
         "prefectId": 2300016,
         "warlordId": 2200005,
-        "name_in_chinese": "王经"
+        "name_in_chinese": "王经",
+        "gender_as_number": 80
     },
     {
         "id": 1100742,
@@ -1698,7 +1760,8 @@ var array_data_general = [
         ],
         "prefectId": 2300006,
         "warlordId": 2200022,
-        "name_in_chinese": "孔融"
+        "name_in_chinese": "孔融",
+        "gender_as_number": 80
     },
     {
         "id": 1100300,
@@ -1725,7 +1788,8 @@ var array_data_general = [
         ],
         "prefectId": 2300010,
         "warlordId": 2200046,
-        "name_in_chinese": "马邈"
+        "name_in_chinese": "马邈",
+        "gender_as_number": 80
     },
     {
         "id": 1100660,
@@ -1752,7 +1816,8 @@ var array_data_general = [
         ],
         "prefectId": 2300002,
         "warlordId": 2200027,
-        "name_in_chinese": "周泰"
+        "name_in_chinese": "周泰",
+        "gender_as_number": 80
     },
     {
         "id": 1100771,
@@ -1779,7 +1844,8 @@ var array_data_general = [
         ],
         "prefectId": 2300006,
         "warlordId": 2200033,
-        "name_in_chinese": "武安国"
+        "name_in_chinese": "武安国",
+        "gender_as_number": 80
     },
     {
         "id": 1100428,
@@ -1806,7 +1872,8 @@ var array_data_general = [
         ],
         "prefectId": 2300011,
         "warlordId": 2200017,
-        "name_in_chinese": "朱俊"
+        "name_in_chinese": "朱俊",
+        "gender_as_number": 80
     },
     {
         "id": 1100424,
@@ -1833,7 +1900,8 @@ var array_data_general = [
         ],
         "prefectId": 2300006,
         "warlordId": 2200005,
-        "name_in_chinese": "朱灵"
+        "name_in_chinese": "朱灵",
+        "gender_as_number": 80
     },
     {
         "id": 1100669,
@@ -1860,7 +1928,8 @@ var array_data_general = [
         ],
         "prefectId": 2300001,
         "warlordId": 2200027,
-        "name_in_chinese": "太史慈"
+        "name_in_chinese": "太史慈",
+        "gender_as_number": 80
     },
     {
         "id": 1100816,
@@ -1887,7 +1956,8 @@ var array_data_general = [
         ],
         "prefectId": 2300006,
         "warlordId": 2200012,
-        "name_in_chinese": "藩宫"
+        "name_in_chinese": "藩宫",
+        "gender_as_number": 80
     },
     {
         "id": 1100410,
@@ -1914,7 +1984,8 @@ var array_data_general = [
         ],
         "prefectId": 2300007,
         "warlordId": 2200032,
-        "name_in_chinese": "曹髦"
+        "name_in_chinese": "曹髦",
+        "gender_as_number": 80
     },
     {
         "id": 1100275,
@@ -1941,7 +2012,8 @@ var array_data_general = [
         ],
         "prefectId": 2300006,
         "warlordId": 2200032,
-        "name_in_chinese": "孔伷"
+        "name_in_chinese": "孔伷",
+        "gender_as_number": 80
     },
     {
         "id": 1100460,
@@ -1968,7 +2040,8 @@ var array_data_general = [
         ],
         "prefectId": 2300009,
         "warlordId": 2200003,
-        "name_in_chinese": "胡质"
+        "name_in_chinese": "胡质",
+        "gender_as_number": 80
     },
     {
         "id": 1100445,
@@ -1995,7 +2068,8 @@ var array_data_general = [
         ],
         "prefectId": 2300008,
         "warlordId": 2200032,
-        "name_in_chinese": "鲍信"
+        "name_in_chinese": "鲍信",
+        "gender_as_number": 80
     },
     {
         "id": 1100763,
@@ -2022,7 +2096,8 @@ var array_data_general = [
         ],
         "prefectId": 2300006,
         "warlordId": 2200016,
-        "name_in_chinese": "郭攸之"
+        "name_in_chinese": "郭攸之",
+        "gender_as_number": 80
     },
     {
         "id": 1100379,
@@ -2049,7 +2124,8 @@ var array_data_general = [
         ],
         "prefectId": 2300004,
         "warlordId": 2200006,
-        "name_in_chinese": "刘馥"
+        "name_in_chinese": "刘馥",
+        "gender_as_number": 80
     },
     {
         "id": 1100774,
@@ -2076,7 +2152,8 @@ var array_data_general = [
         ],
         "prefectId": 2300015,
         "warlordId": 2200005,
-        "name_in_chinese": "卞喜"
+        "name_in_chinese": "卞喜",
+        "gender_as_number": 80
     },
     {
         "id": 1100397,
@@ -2103,7 +2180,8 @@ var array_data_general = [
         ],
         "prefectId": 2300015,
         "warlordId": 2200003,
-        "name_in_chinese": "张燕"
+        "name_in_chinese": "张燕",
+        "gender_as_number": 80
     },
     {
         "id": 1100392,
@@ -2130,7 +2208,8 @@ var array_data_general = [
         ],
         "prefectId": 2300009,
         "warlordId": 2200034,
-        "name_in_chinese": "张既"
+        "name_in_chinese": "张既",
+        "gender_as_number": 80
     },
     {
         "id": 1100639,
@@ -2157,7 +2236,8 @@ var array_data_general = [
         ],
         "prefectId": 2300009,
         "warlordId": 2200044,
-        "name_in_chinese": "孟达"
+        "name_in_chinese": "孟达",
+        "gender_as_number": 80
     },
     {
         "id": 1100617,
@@ -2184,7 +2264,8 @@ var array_data_general = [
         ],
         "prefectId": 2300015,
         "warlordId": 2200001,
-        "name_in_chinese": "简雍"
+        "name_in_chinese": "简雍",
+        "gender_as_number": 80
     },
     {
         "id": 1100724,
@@ -2211,7 +2292,8 @@ var array_data_general = [
         ],
         "prefectId": 2300002,
         "warlordId": 2200021,
-        "name_in_chinese": "徐庶"
+        "name_in_chinese": "徐庶",
+        "gender_as_number": 80
     },
     {
         "id": 1100687,
@@ -2238,7 +2320,8 @@ var array_data_general = [
         ],
         "prefectId": 2300010,
         "warlordId": 2200045,
-        "name_in_chinese": "袁谭"
+        "name_in_chinese": "袁谭",
+        "gender_as_number": 80
     },
     {
         "id": 1100678,
@@ -2265,7 +2348,8 @@ var array_data_general = [
         ],
         "prefectId": 2300011,
         "warlordId": 2200025,
-        "name_in_chinese": "许攸"
+        "name_in_chinese": "许攸",
+        "gender_as_number": 80
     },
     {
         "id": 1100291,
@@ -2292,7 +2376,8 @@ var array_data_general = [
         ],
         "prefectId": 2300009,
         "warlordId": 2200032,
-        "name_in_chinese": "董昭"
+        "name_in_chinese": "董昭",
+        "gender_as_number": 80
     },
     {
         "id": 1100692,
@@ -2319,7 +2404,8 @@ var array_data_general = [
         ],
         "prefectId": 2300007,
         "warlordId": 2200005,
-        "name_in_chinese": "沮鹄"
+        "name_in_chinese": "沮鹄",
+        "gender_as_number": 80
     },
     {
         "id": 1100688,
@@ -2346,7 +2432,8 @@ var array_data_general = [
         ],
         "prefectId": 2300011,
         "warlordId": 2200019,
-        "name_in_chinese": "袁煕"
+        "name_in_chinese": "袁煕",
+        "gender_as_number": 80
     },
     {
         "id": 1100690,
@@ -2373,7 +2460,8 @@ var array_data_general = [
         ],
         "prefectId": 2300009,
         "warlordId": 2200006,
-        "name_in_chinese": "高干"
+        "name_in_chinese": "高干",
+        "gender_as_number": 80
     },
     {
         "id": 1100691,
@@ -2400,7 +2488,8 @@ var array_data_general = [
         ],
         "prefectId": 2300006,
         "warlordId": 2200025,
-        "name_in_chinese": "辛毗"
+        "name_in_chinese": "辛毗",
+        "gender_as_number": 80
     },
     {
         "id": 1100778,
@@ -2427,7 +2516,8 @@ var array_data_general = [
         ],
         "prefectId": 2300013,
         "warlordId": 2200004,
-        "name_in_chinese": "蒋义渠"
+        "name_in_chinese": "蒋义渠",
+        "gender_as_number": 80
     },
     {
         "id": 1100439,
@@ -2454,7 +2544,8 @@ var array_data_general = [
         ],
         "prefectId": 2300001,
         "warlordId": 2200040,
-        "name_in_chinese": "陈震"
+        "name_in_chinese": "陈震",
+        "gender_as_number": 80
     },
     {
         "id": 1100677,
@@ -2481,7 +2572,8 @@ var array_data_general = [
         ],
         "prefectId": 2300008,
         "warlordId": 2200023,
-        "name_in_chinese": "郭图"
+        "name_in_chinese": "郭图",
+        "gender_as_number": 80
     },
     {
         "id": 1100681,
@@ -2508,7 +2600,8 @@ var array_data_general = [
         ],
         "prefectId": 2300002,
         "warlordId": 2200005,
-        "name_in_chinese": "高览"
+        "name_in_chinese": "高览",
+        "gender_as_number": 80
     },
     {
         "id": 1100685,
@@ -2535,7 +2628,8 @@ var array_data_general = [
         ],
         "prefectId": 2300014,
         "warlordId": 2200031,
-        "name_in_chinese": "淳于琼"
+        "name_in_chinese": "淳于琼",
+        "gender_as_number": 80
     },
     {
         "id": 1100689,
@@ -2562,7 +2656,8 @@ var array_data_general = [
         ],
         "prefectId": 2300015,
         "warlordId": 2200019,
-        "name_in_chinese": "袁尚"
+        "name_in_chinese": "袁尚",
+        "gender_as_number": 80
     },
     {
         "id": 1100676,
@@ -2589,7 +2684,8 @@ var array_data_general = [
         ],
         "prefectId": 2300010,
         "warlordId": 2200037,
-        "name_in_chinese": "逢纪"
+        "name_in_chinese": "逢纪",
+        "gender_as_number": 80
     },
     {
         "id": 1100282,
@@ -2616,7 +2712,8 @@ var array_data_general = [
         ],
         "prefectId": 2300008,
         "warlordId": 2200014,
-        "name_in_chinese": "麹义"
+        "name_in_chinese": "麹义",
+        "gender_as_number": 80
     },
     {
         "id": 1100686,
@@ -2643,7 +2740,8 @@ var array_data_general = [
         ],
         "prefectId": 2300016,
         "warlordId": 2200023,
-        "name_in_chinese": "辛评"
+        "name_in_chinese": "辛评",
+        "gender_as_number": 80
     },
     {
         "id": 1100683,
@@ -2670,7 +2768,8 @@ var array_data_general = [
         ],
         "prefectId": 2300001,
         "warlordId": 2200027,
-        "name_in_chinese": "文丑"
+        "name_in_chinese": "文丑",
+        "gender_as_number": 80
     },
     {
         "id": 1100680,
@@ -2697,7 +2796,8 @@ var array_data_general = [
         ],
         "prefectId": 2300005,
         "warlordId": 2200025,
-        "name_in_chinese": "审配"
+        "name_in_chinese": "审配",
+        "gender_as_number": 80
     },
     {
         "id": 1100684,
@@ -2724,7 +2824,8 @@ var array_data_general = [
         ],
         "prefectId": 2300002,
         "warlordId": 2200021,
-        "name_in_chinese": "田丰"
+        "name_in_chinese": "田丰",
+        "gender_as_number": 80
     },
     {
         "id": 1100679,
@@ -2751,7 +2852,8 @@ var array_data_general = [
         ],
         "prefectId": 2300002,
         "warlordId": 2200002,
-        "name_in_chinese": "沮授"
+        "name_in_chinese": "沮授",
+        "gender_as_number": 80
     },
     {
         "id": 1100675,
@@ -2778,7 +2880,8 @@ var array_data_general = [
         ],
         "prefectId": 2300015,
         "warlordId": 2200001,
-        "name_in_chinese": "袁绍"
+        "name_in_chinese": "袁绍",
+        "gender_as_number": 80
     },
     {
         "id": 1100390,
@@ -2805,7 +2908,8 @@ var array_data_general = [
         ],
         "prefectId": 2300009,
         "warlordId": 2200010,
-        "name_in_chinese": "岑昏"
+        "name_in_chinese": "岑昏",
+        "gender_as_number": 80
     },
     {
         "id": 1100297,
@@ -2832,7 +2936,8 @@ var array_data_general = [
         ],
         "prefectId": 2300001,
         "warlordId": 2200025,
-        "name_in_chinese": "滕胤"
+        "name_in_chinese": "滕胤",
+        "gender_as_number": 80
     },
     {
         "id": 1100427,
@@ -2859,7 +2964,8 @@ var array_data_general = [
         ],
         "prefectId": 2300005,
         "warlordId": 2200010,
-        "name_in_chinese": "朱异"
+        "name_in_chinese": "朱异",
+        "gender_as_number": 80
     },
     {
         "id": 1100309,
@@ -2886,7 +2992,8 @@ var array_data_general = [
         ],
         "prefectId": 2300006,
         "warlordId": 2200041,
-        "name_in_chinese": "濮阳兴"
+        "name_in_chinese": "濮阳兴",
+        "gender_as_number": 80
     },
     {
         "id": 1100777,
@@ -2913,7 +3020,8 @@ var array_data_general = [
         ],
         "prefectId": 2300014,
         "warlordId": 2200037,
-        "name_in_chinese": "张允"
+        "name_in_chinese": "张允",
+        "gender_as_number": 80
     },
     {
         "id": 1100441,
@@ -2940,7 +3048,8 @@ var array_data_general = [
         ],
         "prefectId": 2300007,
         "warlordId": 2200013,
-        "name_in_chinese": "陈表"
+        "name_in_chinese": "陈表",
+        "gender_as_number": 80
     },
     {
         "id": 1100308,
@@ -2967,7 +3076,8 @@ var array_data_general = [
         ],
         "prefectId": 2300009,
         "warlordId": 2200023,
-        "name_in_chinese": "步协"
+        "name_in_chinese": "步协",
+        "gender_as_number": 80
     },
     {
         "id": 1100269,
@@ -2994,7 +3104,8 @@ var array_data_general = [
         ],
         "prefectId": 2300010,
         "warlordId": 2200022,
-        "name_in_chinese": "顾雍"
+        "name_in_chinese": "顾雍",
+        "gender_as_number": 80
     },
     {
         "id": 1100384,
@@ -3021,7 +3132,8 @@ var array_data_general = [
         ],
         "prefectId": 2300003,
         "warlordId": 2200013,
-        "name_in_chinese": "留赞"
+        "name_in_chinese": "留赞",
+        "gender_as_number": 80
     },
     {
         "id": 1100419,
@@ -3048,7 +3160,8 @@ var array_data_general = [
         ],
         "prefectId": 2300016,
         "warlordId": 2200014,
-        "name_in_chinese": "钟离牧"
+        "name_in_chinese": "钟离牧",
+        "gender_as_number": 80
     },
     {
         "id": 1100425,
@@ -3075,7 +3188,8 @@ var array_data_general = [
         ],
         "prefectId": 2300006,
         "warlordId": 2200013,
-        "name_in_chinese": "周鲂"
+        "name_in_chinese": "周鲂",
+        "gender_as_number": 80
     },
     {
         "id": 1100472,
@@ -3102,7 +3216,8 @@ var array_data_general = [
         ],
         "prefectId": 2300008,
         "warlordId": 2200048,
-        "name_in_chinese": "孙鲁班"
+        "name_in_chinese": "孙鲁班",
+        "gender_as_number": 20
     },
     {
         "id": 1100663,
@@ -3129,7 +3244,8 @@ var array_data_general = [
         ],
         "prefectId": 2300014,
         "warlordId": 2200026,
-        "name_in_chinese": "陈武"
+        "name_in_chinese": "陈武",
+        "gender_as_number": 80
     },
     {
         "id": 1100659,
@@ -3156,7 +3272,8 @@ var array_data_general = [
         ],
         "prefectId": 2300001,
         "warlordId": 2200028,
-        "name_in_chinese": "凌统"
+        "name_in_chinese": "凌统",
+        "gender_as_number": 80
     },
     {
         "id": 1100653,
@@ -3183,7 +3300,8 @@ var array_data_general = [
         ],
         "prefectId": 2300006,
         "warlordId": 2200008,
-        "name_in_chinese": "诸葛瑾"
+        "name_in_chinese": "诸葛瑾",
+        "gender_as_number": 80
     },
     {
         "id": 1100387,
@@ -3210,7 +3328,8 @@ var array_data_general = [
         ],
         "prefectId": 2300015,
         "warlordId": 2200001,
-        "name_in_chinese": "陆抗"
+        "name_in_chinese": "陆抗",
+        "gender_as_number": 80
     },
     {
         "id": 1100655,
@@ -3237,7 +3356,8 @@ var array_data_general = [
         ],
         "prefectId": 2300003,
         "warlordId": 2200028,
-        "name_in_chinese": "陆逊"
+        "name_in_chinese": "陆逊",
+        "gender_as_number": 80
     },
     {
         "id": 1100463,
@@ -3264,7 +3384,8 @@ var array_data_general = [
         ],
         "prefectId": 2300009,
         "warlordId": 2200005,
-        "name_in_chinese": "桓阶"
+        "name_in_chinese": "桓阶",
+        "gender_as_number": 80
     },
     {
         "id": 1100334,
@@ -3291,7 +3412,8 @@ var array_data_general = [
         ],
         "prefectId": 2300011,
         "warlordId": 2200010,
-        "name_in_chinese": "孙皓"
+        "name_in_chinese": "孙皓",
+        "gender_as_number": 80
     },
     {
         "id": 1100273,
@@ -3318,7 +3440,8 @@ var array_data_general = [
         ],
         "prefectId": 2300016,
         "warlordId": 2200026,
-        "name_in_chinese": "公孙渊"
+        "name_in_chinese": "公孙渊",
+        "gender_as_number": 80
     },
     {
         "id": 1100301,
@@ -3345,7 +3468,8 @@ var array_data_general = [
         ],
         "prefectId": 2300016,
         "warlordId": 2200041,
-        "name_in_chinese": "马忠"
+        "name_in_chinese": "马忠",
+        "gender_as_number": 80
     },
     {
         "id": 1100268,
@@ -3372,7 +3496,8 @@ var array_data_general = [
         ],
         "prefectId": 2300011,
         "warlordId": 2200036,
-        "name_in_chinese": "顾谭"
+        "name_in_chinese": "顾谭",
+        "gender_as_number": 80
     },
     {
         "id": 1100288,
@@ -3399,7 +3524,8 @@ var array_data_general = [
         ],
         "prefectId": 2300002,
         "warlordId": 2200022,
-        "name_in_chinese": "唐咨"
+        "name_in_chinese": "唐咨",
+        "gender_as_number": 80
     },
     {
         "id": 1100327,
@@ -3426,7 +3552,8 @@ var array_data_general = [
         ],
         "prefectId": 2300009,
         "warlordId": 2200005,
-        "name_in_chinese": "孙亮"
+        "name_in_chinese": "孙亮",
+        "gender_as_number": 80
     },
     {
         "id": 1100323,
@@ -3453,7 +3580,8 @@ var array_data_general = [
         ],
         "prefectId": 2300015,
         "warlordId": 2200019,
-        "name_in_chinese": "薛综"
+        "name_in_chinese": "薛综",
+        "gender_as_number": 80
     },
     {
         "id": 1100671,
@@ -3480,7 +3608,8 @@ var array_data_general = [
         ],
         "prefectId": 2300001,
         "warlordId": 2200013,
-        "name_in_chinese": "张絋"
+        "name_in_chinese": "张絋",
+        "gender_as_number": 80
     },
     {
         "id": 1100335,
@@ -3507,7 +3636,8 @@ var array_data_general = [
         ],
         "prefectId": 2300009,
         "warlordId": 2200010,
-        "name_in_chinese": "孙和"
+        "name_in_chinese": "孙和",
+        "gender_as_number": 80
     },
     {
         "id": 1100375,
@@ -3534,7 +3664,8 @@ var array_data_general = [
         ],
         "prefectId": 2300016,
         "warlordId": 2200048,
-        "name_in_chinese": "虞翻"
+        "name_in_chinese": "虞翻",
+        "gender_as_number": 80
     },
     {
         "id": 1100398,
@@ -3561,7 +3692,8 @@ var array_data_general = [
         ],
         "prefectId": 2300006,
         "warlordId": 2200031,
-        "name_in_chinese": "张温"
+        "name_in_chinese": "张温",
+        "gender_as_number": 80
     },
     {
         "id": 1100487,
@@ -3588,7 +3720,8 @@ var array_data_general = [
         ],
         "prefectId": 2300002,
         "warlordId": 2200001,
-        "name_in_chinese": "步练师"
+        "name_in_chinese": "步练师",
+        "gender_as_number": 20
     },
     {
         "id": 1100806,
@@ -3615,7 +3748,8 @@ var array_data_general = [
         ],
         "prefectId": 2300009,
         "warlordId": 2200023,
-        "name_in_chinese": "吴景"
+        "name_in_chinese": "吴景",
+        "gender_as_number": 80
     },
     {
         "id": 1100654,
@@ -3642,7 +3776,8 @@ var array_data_general = [
         ],
         "prefectId": 2300001,
         "warlordId": 2200001,
-        "name_in_chinese": "吕蒙"
+        "name_in_chinese": "吕蒙",
+        "gender_as_number": 80
     },
     {
         "id": 1100284,
@@ -3669,7 +3804,8 @@ var array_data_general = [
         ],
         "prefectId": 2300011,
         "warlordId": 2200010,
-        "name_in_chinese": "骆统"
+        "name_in_chinese": "骆统",
+        "gender_as_number": 80
     },
     {
         "id": 1100650,
@@ -3696,7 +3832,8 @@ var array_data_general = [
         ],
         "prefectId": 2300002,
         "warlordId": 2200024,
-        "name_in_chinese": "孙权"
+        "name_in_chinese": "孙权",
+        "gender_as_number": 80
     },
     {
         "id": 1100600,
@@ -3723,7 +3860,8 @@ var array_data_general = [
         ],
         "prefectId": 2300014,
         "warlordId": 2200019,
-        "name_in_chinese": "夏侯恩"
+        "name_in_chinese": "夏侯恩",
+        "gender_as_number": 80
     },
     {
         "id": 1100421,
@@ -3750,7 +3888,8 @@ var array_data_general = [
         ],
         "prefectId": 2300007,
         "warlordId": 2200022,
-        "name_in_chinese": "钟毓"
+        "name_in_chinese": "钟毓",
+        "gender_as_number": 80
     },
     {
         "id": 1100836,
@@ -3777,7 +3916,8 @@ var array_data_general = [
         ],
         "prefectId": 2300013,
         "warlordId": 2200018,
-        "name_in_chinese": "师簒"
+        "name_in_chinese": "师簒",
+        "gender_as_number": 80
     },
     {
         "id": 1100745,
@@ -3804,7 +3944,8 @@ var array_data_general = [
         ],
         "prefectId": 2300009,
         "warlordId": 2200023,
-        "name_in_chinese": "文虎"
+        "name_in_chinese": "文虎",
+        "gender_as_number": 80
     },
     {
         "id": 1100368,
@@ -3831,7 +3972,8 @@ var array_data_general = [
         ],
         "prefectId": 2300002,
         "warlordId": 2200033,
-        "name_in_chinese": "王修"
+        "name_in_chinese": "王修",
+        "gender_as_number": 80
     },
     {
         "id": 1100467,
@@ -3858,7 +4000,8 @@ var array_data_general = [
         ],
         "prefectId": 2300006,
         "warlordId": 2200006,
-        "name_in_chinese": "戏志才"
+        "name_in_chinese": "戏志才",
+        "gender_as_number": 80
     },
     {
         "id": 1100371,
@@ -3885,7 +4028,8 @@ var array_data_general = [
         ],
         "prefectId": 2300001,
         "warlordId": 2200018,
-        "name_in_chinese": "王浚"
+        "name_in_chinese": "王浚",
+        "gender_as_number": 80
     },
     {
         "id": 1100802,
@@ -3912,7 +4056,8 @@ var array_data_general = [
         ],
         "prefectId": 2300010,
         "warlordId": 2200032,
-        "name_in_chinese": "曹宪"
+        "name_in_chinese": "曹宪",
+        "gender_as_number": 20
     },
     {
         "id": 1100602,
@@ -3939,7 +4084,8 @@ var array_data_general = [
         ],
         "prefectId": 2300002,
         "warlordId": 2200045,
-        "name_in_chinese": "夏侯杰"
+        "name_in_chinese": "夏侯杰",
+        "gender_as_number": 80
     },
     {
         "id": 1100838,
@@ -3966,7 +4112,8 @@ var array_data_general = [
         ],
         "prefectId": 2300006,
         "warlordId": 2200006,
-        "name_in_chinese": "诸葛绪"
+        "name_in_chinese": "诸葛绪",
+        "gender_as_number": 80
     },
     {
         "id": 1100459,
@@ -3993,7 +4140,8 @@ var array_data_general = [
         ],
         "prefectId": 2300010,
         "warlordId": 2200046,
-        "name_in_chinese": "胡烈"
+        "name_in_chinese": "胡烈",
+        "gender_as_number": 80
     },
     {
         "id": 1100603,
@@ -4020,7 +4168,8 @@ var array_data_general = [
         ],
         "prefectId": 2300012,
         "warlordId": 2200029,
-        "name_in_chinese": "郭淮"
+        "name_in_chinese": "郭淮",
+        "gender_as_number": 80
     },
     {
         "id": 1100299,
@@ -4047,7 +4196,8 @@ var array_data_general = [
         ],
         "prefectId": 2300007,
         "warlordId": 2200048,
-        "name_in_chinese": "邓忠"
+        "name_in_chinese": "邓忠",
+        "gender_as_number": 80
     },
     {
         "id": 1100837,
@@ -4074,7 +4224,8 @@ var array_data_general = [
         ],
         "prefectId": 2300012,
         "warlordId": 2200023,
-        "name_in_chinese": "卫瓘"
+        "name_in_chinese": "卫瓘",
+        "gender_as_number": 80
     },
     {
         "id": 1100779,
@@ -4101,7 +4252,8 @@ var array_data_general = [
         ],
         "prefectId": 2300014,
         "warlordId": 2200045,
-        "name_in_chinese": "张虎"
+        "name_in_chinese": "张虎",
+        "gender_as_number": 80
     },
     {
         "id": 1100953,
@@ -4128,7 +4280,8 @@ var array_data_general = [
         ],
         "prefectId": 2300006,
         "warlordId": 2200009,
-        "name_in_chinese": "乐綝"
+        "name_in_chinese": "乐綝",
+        "gender_as_number": 80
     },
     {
         "id": 1100420,
@@ -4155,7 +4308,8 @@ var array_data_general = [
         ],
         "prefectId": 2300011,
         "warlordId": 2200019,
-        "name_in_chinese": "钟繇"
+        "name_in_chinese": "钟繇",
+        "gender_as_number": 80
     },
     {
         "id": 1100453,
@@ -4182,7 +4336,8 @@ var array_data_general = [
         ],
         "prefectId": 2300015,
         "warlordId": 2200028,
-        "name_in_chinese": "郝昭"
+        "name_in_chinese": "郝昭",
+        "gender_as_number": 80
     },
     {
         "id": 1100440,
@@ -4209,7 +4364,8 @@ var array_data_general = [
         ],
         "prefectId": 2300006,
         "warlordId": 2200048,
-        "name_in_chinese": "陈泰"
+        "name_in_chinese": "陈泰",
+        "gender_as_number": 80
     },
     {
         "id": 1100304,
@@ -4236,7 +4392,8 @@ var array_data_general = [
         ],
         "prefectId": 2300002,
         "warlordId": 2200028,
-        "name_in_chinese": "文鸯"
+        "name_in_chinese": "文鸯",
+        "gender_as_number": 80
     },
     {
         "id": 1100296,
@@ -4263,7 +4420,8 @@ var array_data_general = [
         ],
         "prefectId": 2300002,
         "warlordId": 2200028,
-        "name_in_chinese": "邓艾"
+        "name_in_chinese": "邓艾",
+        "gender_as_number": 80
     },
     {
         "id": 1100274,
@@ -4290,7 +4448,8 @@ var array_data_general = [
         ],
         "prefectId": 2300006,
         "warlordId": 2200018,
-        "name_in_chinese": "郄正"
+        "name_in_chinese": "郄正",
+        "gender_as_number": 80
     },
     {
         "id": 1100616,
@@ -4317,7 +4476,8 @@ var array_data_general = [
         ],
         "prefectId": 2300001,
         "warlordId": 2200034,
-        "name_in_chinese": "麋芳"
+        "name_in_chinese": "麋芳",
+        "gender_as_number": 80
     },
     {
         "id": 1100744,
@@ -4344,7 +4504,8 @@ var array_data_general = [
         ],
         "prefectId": 2300009,
         "warlordId": 2200030,
-        "name_in_chinese": "公孙越"
+        "name_in_chinese": "公孙越",
+        "gender_as_number": 80
     },
     {
         "id": 1100306,
@@ -4371,7 +4532,8 @@ var array_data_general = [
         ],
         "prefectId": 2300015,
         "warlordId": 2200015,
-        "name_in_chinese": "樊建"
+        "name_in_chinese": "樊建",
+        "gender_as_number": 80
     },
     {
         "id": 1100951,
@@ -4398,7 +4560,8 @@ var array_data_general = [
         ],
         "prefectId": 2300003,
         "warlordId": 2200003,
-        "name_in_chinese": "关靖"
+        "name_in_chinese": "关靖",
+        "gender_as_number": 80
     },
     {
         "id": 1100349,
@@ -4425,7 +4588,8 @@ var array_data_general = [
         ],
         "prefectId": 2300008,
         "warlordId": 2200030,
-        "name_in_chinese": "严纲"
+        "name_in_chinese": "严纲",
+        "gender_as_number": 80
     },
     {
         "id": 1100749,
@@ -4452,7 +4616,8 @@ var array_data_general = [
         ],
         "prefectId": 2300014,
         "warlordId": 2200014,
-        "name_in_chinese": "赵统"
+        "name_in_chinese": "赵统",
+        "gender_as_number": 80
     },
     {
         "id": 1100750,
@@ -4479,7 +4644,8 @@ var array_data_general = [
         ],
         "prefectId": 2300011,
         "warlordId": 2200040,
-        "name_in_chinese": "赵广"
+        "name_in_chinese": "赵广",
+        "gender_as_number": 80
     },
     {
         "id": 1100807,
@@ -4506,7 +4672,8 @@ var array_data_general = [
         ],
         "prefectId": 2300009,
         "warlordId": 2200012,
-        "name_in_chinese": "刘度"
+        "name_in_chinese": "刘度",
+        "gender_as_number": 80
     },
     {
         "id": 1100839,
@@ -4533,7 +4700,8 @@ var array_data_general = [
         ],
         "prefectId": 2300016,
         "warlordId": 2200014,
-        "name_in_chinese": "宁随"
+        "name_in_chinese": "宁随",
+        "gender_as_number": 80
     },
     {
         "id": 1100623,
@@ -4560,7 +4728,8 @@ var array_data_general = [
         ],
         "prefectId": 2300006,
         "warlordId": 2200038,
-        "name_in_chinese": "马良"
+        "name_in_chinese": "马良",
+        "gender_as_number": 80
     },
     {
         "id": 1100954,
@@ -4587,7 +4756,8 @@ var array_data_general = [
         ],
         "prefectId": 2300006,
         "warlordId": 2200030,
-        "name_in_chinese": "夏侯兰"
+        "name_in_chinese": "夏侯兰",
+        "gender_as_number": 80
     },
     {
         "id": 1100310,
@@ -4614,7 +4784,8 @@ var array_data_general = [
         ],
         "prefectId": 2300006,
         "warlordId": 2200040,
-        "name_in_chinese": "傅佥"
+        "name_in_chinese": "傅佥",
+        "gender_as_number": 80
     },
     {
         "id": 1100388,
@@ -4641,7 +4812,8 @@ var array_data_general = [
         ],
         "prefectId": 2300011,
         "warlordId": 2200022,
-        "name_in_chinese": "尹默"
+        "name_in_chinese": "尹默",
+        "gender_as_number": 80
     },
     {
         "id": 1100403,
@@ -4668,7 +4840,8 @@ var array_data_general = [
         ],
         "prefectId": 2300006,
         "warlordId": 2200026,
-        "name_in_chinese": "田豫"
+        "name_in_chinese": "田豫",
+        "gender_as_number": 80
     },
     {
         "id": 1100952,
@@ -4695,7 +4868,8 @@ var array_data_general = [
         ],
         "prefectId": 2300008,
         "warlordId": 2200033,
-        "name_in_chinese": "田楷"
+        "name_in_chinese": "田楷",
+        "gender_as_number": 80
     },
     {
         "id": 1100728,
@@ -4722,7 +4896,8 @@ var array_data_general = [
         ],
         "prefectId": 2300010,
         "warlordId": 2200030,
-        "name_in_chinese": "公孙瓒"
+        "name_in_chinese": "公孙瓒",
+        "gender_as_number": 80
     },
     {
         "id": 1100283,
@@ -4749,7 +4924,8 @@ var array_data_general = [
         ],
         "prefectId": 2300002,
         "warlordId": 2200041,
-        "name_in_chinese": "罗宪"
+        "name_in_chinese": "罗宪",
+        "gender_as_number": 80
     },
     {
         "id": 1100817,
@@ -4776,7 +4952,8 @@ var array_data_general = [
         ],
         "prefectId": 2300001,
         "warlordId": 2200002,
-        "name_in_chinese": "李明"
+        "name_in_chinese": "李明",
+        "gender_as_number": 20
     },
     {
         "id": 1100642,
@@ -4803,7 +4980,8 @@ var array_data_general = [
         ],
         "prefectId": 2300015,
         "warlordId": 2200041,
-        "name_in_chinese": "张嶷"
+        "name_in_chinese": "张嶷",
+        "gender_as_number": 80
     },
     {
         "id": 1100608,
@@ -4830,7 +5008,8 @@ var array_data_general = [
         ],
         "prefectId": 2300015,
         "warlordId": 2200028,
-        "name_in_chinese": "赵云"
+        "name_in_chinese": "赵云",
+        "gender_as_number": 80
     },
     {
         "id": 1100396,
@@ -4857,7 +5036,8 @@ var array_data_general = [
         ],
         "prefectId": 2300015,
         "warlordId": 2200003,
-        "name_in_chinese": "张杨"
+        "name_in_chinese": "张杨",
+        "gender_as_number": 80
     },
     {
         "id": 1100320,
@@ -4884,7 +5064,8 @@ var array_data_general = [
         ],
         "prefectId": 2300006,
         "warlordId": 2200039,
-        "name_in_chinese": "士壹"
+        "name_in_chinese": "士壹",
+        "gender_as_number": 80
     },
     {
         "id": 1100377,
@@ -4911,7 +5092,8 @@ var array_data_general = [
         ],
         "prefectId": 2300006,
         "warlordId": 2200013,
-        "name_in_chinese": "袁遗"
+        "name_in_chinese": "袁遗",
+        "gender_as_number": 80
     },
     {
         "id": 1100332,
@@ -4938,7 +5120,8 @@ var array_data_general = [
         ],
         "prefectId": 2300005,
         "warlordId": 2200048,
-        "name_in_chinese": "孙静"
+        "name_in_chinese": "孙静",
+        "gender_as_number": 80
     },
     {
         "id": 1100402,
@@ -4965,7 +5148,8 @@ var array_data_general = [
         ],
         "prefectId": 2300013,
         "warlordId": 2200010,
-        "name_in_chinese": "张休"
+        "name_in_chinese": "张休",
+        "gender_as_number": 80
     },
     {
         "id": 1100319,
@@ -4992,7 +5176,8 @@ var array_data_general = [
         ],
         "prefectId": 2300006,
         "warlordId": 2200013,
-        "name_in_chinese": "士燮"
+        "name_in_chinese": "士燮",
+        "gender_as_number": 80
     },
     {
         "id": 1100429,
@@ -5019,7 +5204,8 @@ var array_data_general = [
         ],
         "prefectId": 2300011,
         "warlordId": 2200026,
-        "name_in_chinese": "朱治"
+        "name_in_chinese": "朱治",
+        "gender_as_number": 80
     },
     {
         "id": 1100331,
@@ -5046,7 +5232,8 @@ var array_data_general = [
         ],
         "prefectId": 2300014,
         "warlordId": 2200010,
-        "name_in_chinese": "孙翊"
+        "name_in_chinese": "孙翊",
+        "gender_as_number": 80
     },
     {
         "id": 1100340,
@@ -5073,7 +5260,8 @@ var array_data_general = [
         ],
         "prefectId": 2300004,
         "warlordId": 2200031,
-        "name_in_chinese": "沈莹"
+        "name_in_chinese": "沈莹",
+        "gender_as_number": 80
     },
     {
         "id": 1100330,
@@ -5100,7 +5288,8 @@ var array_data_general = [
         ],
         "prefectId": 2300007,
         "warlordId": 2200015,
-        "name_in_chinese": "孙瑜"
+        "name_in_chinese": "孙瑜",
+        "gender_as_number": 80
     },
     {
         "id": 1100668,
@@ -5127,7 +5316,8 @@ var array_data_general = [
         ],
         "prefectId": 2300012,
         "warlordId": 2200035,
-        "name_in_chinese": "韩当"
+        "name_in_chinese": "韩当",
+        "gender_as_number": 80
     },
     {
         "id": 1100411,
@@ -5154,7 +5344,8 @@ var array_data_general = [
         ],
         "prefectId": 2300009,
         "warlordId": 2200022,
-        "name_in_chinese": "祖茂"
+        "name_in_chinese": "祖茂",
+        "gender_as_number": 80
     },
     {
         "id": 1100478,
@@ -5181,7 +5372,8 @@ var array_data_general = [
         ],
         "prefectId": 2300002,
         "warlordId": 2200002,
-        "name_in_chinese": "孙尚香"
+        "name_in_chinese": "孙尚香",
+        "gender_as_number": 20
     },
     {
         "id": 1100672,
@@ -5208,7 +5400,8 @@ var array_data_general = [
         ],
         "prefectId": 2300004,
         "warlordId": 2200035,
-        "name_in_chinese": "程普"
+        "name_in_chinese": "程普",
+        "gender_as_number": 80
     },
     {
         "id": 1100665,
@@ -5235,7 +5428,8 @@ var array_data_general = [
         ],
         "prefectId": 2300002,
         "warlordId": 2200028,
-        "name_in_chinese": "黄盖"
+        "name_in_chinese": "黄盖",
+        "gender_as_number": 80
     },
     {
         "id": 1100354,
@@ -5262,7 +5456,8 @@ var array_data_general = [
         ],
         "prefectId": 2300007,
         "warlordId": 2200039,
-        "name_in_chinese": "吕岱"
+        "name_in_chinese": "吕岱",
+        "gender_as_number": 80
     },
     {
         "id": 1100673,
@@ -5289,7 +5484,8 @@ var array_data_general = [
         ],
         "prefectId": 2300002,
         "warlordId": 2200028,
-        "name_in_chinese": "孙坚"
+        "name_in_chinese": "孙坚",
+        "gender_as_number": 80
     },
     {
         "id": 1100638,
@@ -5316,7 +5512,8 @@ var array_data_general = [
         ],
         "prefectId": 2300002,
         "warlordId": 2200011,
-        "name_in_chinese": "刘琦"
+        "name_in_chinese": "刘琦",
+        "gender_as_number": 80
     },
     {
         "id": 1100372,
@@ -5343,7 +5540,8 @@ var array_data_general = [
         ],
         "prefectId": 2300009,
         "warlordId": 2200032,
-        "name_in_chinese": "王粲"
+        "name_in_chinese": "王粲",
+        "gender_as_number": 80
     },
     {
         "id": 1100743,
@@ -5370,7 +5568,8 @@ var array_data_general = [
         ],
         "prefectId": 2300006,
         "warlordId": 2200029,
-        "name_in_chinese": "焦触"
+        "name_in_chinese": "焦触",
+        "gender_as_number": 80
     },
     {
         "id": 1100791,
@@ -5397,7 +5596,8 @@ var array_data_general = [
         ],
         "prefectId": 2300005,
         "warlordId": 2200003,
-        "name_in_chinese": "呼厨泉"
+        "name_in_chinese": "呼厨泉",
+        "gender_as_number": 80
     },
     {
         "id": 1100795,
@@ -5424,7 +5624,8 @@ var array_data_general = [
         ],
         "prefectId": 2300010,
         "warlordId": 2200035,
-        "name_in_chinese": "唐姫"
+        "name_in_chinese": "唐姫",
+        "gender_as_number": 20
     },
     {
         "id": 1100764,
@@ -5451,7 +5652,8 @@ var array_data_general = [
         ],
         "prefectId": 2300006,
         "warlordId": 2200038,
-        "name_in_chinese": "金旋"
+        "name_in_chinese": "金旋",
+        "gender_as_number": 80
     },
     {
         "id": 1100456,
@@ -5478,7 +5680,8 @@ var array_data_general = [
         ],
         "prefectId": 2300010,
         "warlordId": 2200012,
-        "name_in_chinese": "向朗"
+        "name_in_chinese": "向朗",
+        "gender_as_number": 80
     },
     {
         "id": 1100431,
@@ -5505,7 +5708,8 @@ var array_data_general = [
         ],
         "prefectId": 2300011,
         "warlordId": 2200003,
-        "name_in_chinese": "周昕"
+        "name_in_chinese": "周昕",
+        "gender_as_number": 80
     },
     {
         "id": 1100615,
@@ -5532,7 +5736,8 @@ var array_data_general = [
         ],
         "prefectId": 2300001,
         "warlordId": 2200001,
-        "name_in_chinese": "麋竺"
+        "name_in_chinese": "麋竺",
+        "gender_as_number": 80
     },
     {
         "id": 1100287,
@@ -5559,7 +5764,8 @@ var array_data_general = [
         ],
         "prefectId": 2300013,
         "warlordId": 2200023,
-        "name_in_chinese": "蹋顿"
+        "name_in_chinese": "蹋顿",
+        "gender_as_number": 80
     },
     {
         "id": 1100614,
@@ -5586,7 +5792,8 @@ var array_data_general = [
         ],
         "prefectId": 2300015,
         "warlordId": 2200002,
-        "name_in_chinese": "孙干"
+        "name_in_chinese": "孙干",
+        "gender_as_number": 80
     },
     {
         "id": 1100279,
@@ -5613,7 +5820,8 @@ var array_data_general = [
         ],
         "prefectId": 2300008,
         "warlordId": 2200023,
-        "name_in_chinese": "蒯良"
+        "name_in_chinese": "蒯良",
+        "gender_as_number": 80
     },
     {
         "id": 1100711,
@@ -5640,7 +5848,8 @@ var array_data_general = [
         ],
         "prefectId": 2300009,
         "warlordId": 2200011,
-        "name_in_chinese": "纪灵"
+        "name_in_chinese": "纪灵",
+        "gender_as_number": 80
     },
     {
         "id": 1100285,
@@ -5667,7 +5876,8 @@ var array_data_general = [
         ],
         "prefectId": 2300002,
         "warlordId": 2200017,
-        "name_in_chinese": "卢植"
+        "name_in_chinese": "卢植",
+        "gender_as_number": 80
     },
     {
         "id": 1100280,
@@ -5694,7 +5904,8 @@ var array_data_general = [
         ],
         "prefectId": 2300012,
         "warlordId": 2200038,
-        "name_in_chinese": "蒯越"
+        "name_in_chinese": "蒯越",
+        "gender_as_number": 80
     },
     {
         "id": 1100385,
@@ -5721,7 +5932,8 @@ var array_data_general = [
         ],
         "prefectId": 2300002,
         "warlordId": 2200033,
-        "name_in_chinese": "刘表"
+        "name_in_chinese": "刘表",
+        "gender_as_number": 80
     },
     {
         "id": 1100664,
@@ -5748,7 +5960,8 @@ var array_data_general = [
         ],
         "prefectId": 2300002,
         "warlordId": 2200024,
-        "name_in_chinese": "庞统"
+        "name_in_chinese": "庞统",
+        "gender_as_number": 80
     },
     {
         "id": 1100350,
@@ -5775,7 +5988,8 @@ var array_data_general = [
         ],
         "prefectId": 2300002,
         "warlordId": 2200026,
-        "name_in_chinese": "严白虎"
+        "name_in_chinese": "严白虎",
+        "gender_as_number": 80
     },
     {
         "id": 1100731,
@@ -5802,7 +6016,8 @@ var array_data_general = [
         ],
         "prefectId": 2300006,
         "warlordId": 2200033,
-        "name_in_chinese": "凌操"
+        "name_in_chinese": "凌操",
+        "gender_as_number": 80
     },
     {
         "id": 1100785,
@@ -5829,7 +6044,8 @@ var array_data_general = [
         ],
         "prefectId": 2300010,
         "warlordId": 2200009,
-        "name_in_chinese": "陈横"
+        "name_in_chinese": "陈横",
+        "gender_as_number": 80
     },
     {
         "id": 1100406,
@@ -5856,7 +6072,8 @@ var array_data_general = [
         ],
         "prefectId": 2300009,
         "warlordId": 2200022,
-        "name_in_chinese": "诸葛乔"
+        "name_in_chinese": "诸葛乔",
+        "gender_as_number": 80
     },
     {
         "id": 1100667,
@@ -5883,7 +6100,8 @@ var array_data_general = [
         ],
         "prefectId": 2300014,
         "warlordId": 2200035,
-        "name_in_chinese": "董袭"
+        "name_in_chinese": "董袭",
+        "gender_as_number": 80
     },
     {
         "id": 1100382,
@@ -5910,7 +6128,8 @@ var array_data_general = [
         ],
         "prefectId": 2300013,
         "warlordId": 2200033,
-        "name_in_chinese": "刘繇"
+        "name_in_chinese": "刘繇",
+        "gender_as_number": 80
     },
     {
         "id": 1100423,
@@ -5937,7 +6156,8 @@ var array_data_general = [
         ],
         "prefectId": 2300006,
         "warlordId": 2200010,
-        "name_in_chinese": "严舆"
+        "name_in_chinese": "严舆",
+        "gender_as_number": 80
     },
     {
         "id": 1100286,
@@ -5964,7 +6184,8 @@ var array_data_general = [
         ],
         "prefectId": 2300009,
         "warlordId": 2200025,
-        "name_in_chinese": "许贡"
+        "name_in_chinese": "许贡",
+        "gender_as_number": 80
     },
     {
         "id": 1100469,
@@ -5991,7 +6212,8 @@ var array_data_general = [
         ],
         "prefectId": 2300015,
         "warlordId": 2200002,
-        "name_in_chinese": "大乔"
+        "name_in_chinese": "大乔",
+        "gender_as_number": 20
     },
     {
         "id": 1100662,
@@ -6018,7 +6240,8 @@ var array_data_general = [
         ],
         "prefectId": 2300003,
         "warlordId": 2200021,
-        "name_in_chinese": "张昭"
+        "name_in_chinese": "张昭",
+        "gender_as_number": 80
     },
     {
         "id": 1100325,
@@ -6045,7 +6268,8 @@ var array_data_general = [
         ],
         "prefectId": 2300012,
         "warlordId": 2200022,
-        "name_in_chinese": "孙皎"
+        "name_in_chinese": "孙皎",
+        "gender_as_number": 80
     },
     {
         "id": 1100336,
@@ -6072,7 +6296,8 @@ var array_data_general = [
         ],
         "prefectId": 2300015,
         "warlordId": 2200036,
-        "name_in_chinese": "孙桓"
+        "name_in_chinese": "孙桓",
+        "gender_as_number": 80
     },
     {
         "id": 1100355,
@@ -6099,7 +6324,8 @@ var array_data_general = [
         ],
         "prefectId": 2300007,
         "warlordId": 2200013,
-        "name_in_chinese": "吕范"
+        "name_in_chinese": "吕范",
+        "gender_as_number": 80
     },
     {
         "id": 1100358,
@@ -6126,7 +6352,8 @@ var array_data_general = [
         ],
         "prefectId": 2300009,
         "warlordId": 2200036,
-        "name_in_chinese": "吾粲"
+        "name_in_chinese": "吾粲",
+        "gender_as_number": 80
     },
     {
         "id": 1100666,
@@ -6153,7 +6380,8 @@ var array_data_general = [
         ],
         "prefectId": 2300006,
         "warlordId": 2200009,
-        "name_in_chinese": "全琮"
+        "name_in_chinese": "全琮",
+        "gender_as_number": 80
     },
     {
         "id": 1100657,
@@ -6180,7 +6408,8 @@ var array_data_general = [
         ],
         "prefectId": 2300004,
         "warlordId": 2200023,
-        "name_in_chinese": "徐盛"
+        "name_in_chinese": "徐盛",
+        "gender_as_number": 80
     },
     {
         "id": 1100329,
@@ -6207,7 +6436,8 @@ var array_data_general = [
         ],
         "prefectId": 2300004,
         "warlordId": 2200036,
-        "name_in_chinese": "孙韶"
+        "name_in_chinese": "孙韶",
+        "gender_as_number": 80
     },
     {
         "id": 1100670,
@@ -6234,7 +6464,8 @@ var array_data_general = [
         ],
         "prefectId": 2300002,
         "warlordId": 2200013,
-        "name_in_chinese": "丁奉"
+        "name_in_chinese": "丁奉",
+        "gender_as_number": 80
     },
     {
         "id": 1100661,
@@ -6261,7 +6492,8 @@ var array_data_general = [
         ],
         "prefectId": 2300006,
         "warlordId": 2200035,
-        "name_in_chinese": "蒋钦"
+        "name_in_chinese": "蒋钦",
+        "gender_as_number": 80
     },
     {
         "id": 1100430,
@@ -6288,7 +6520,8 @@ var array_data_general = [
         ],
         "prefectId": 2300006,
         "warlordId": 2200036,
-        "name_in_chinese": "朱桓"
+        "name_in_chinese": "朱桓",
+        "gender_as_number": 80
     },
     {
         "id": 1100674,
@@ -6315,7 +6548,8 @@ var array_data_general = [
         ],
         "prefectId": 2300001,
         "warlordId": 2200047,
-        "name_in_chinese": "孙策"
+        "name_in_chinese": "孙策",
+        "gender_as_number": 80
     },
     {
         "id": 1100365,
@@ -6342,7 +6576,8 @@ var array_data_general = [
         ],
         "prefectId": 2300011,
         "warlordId": 2200026,
-        "name_in_chinese": "王朗"
+        "name_in_chinese": "王朗",
+        "gender_as_number": 80
     },
     {
         "id": 1100735,
@@ -6369,7 +6604,8 @@ var array_data_general = [
         ],
         "prefectId": 2300013,
         "warlordId": 2200038,
-        "name_in_chinese": "苏飞"
+        "name_in_chinese": "苏飞",
+        "gender_as_number": 80
     },
     {
         "id": 1100462,
@@ -6396,7 +6632,8 @@ var array_data_general = [
         ],
         "prefectId": 2300009,
         "warlordId": 2200025,
-        "name_in_chinese": "华歆"
+        "name_in_chinese": "华歆",
+        "gender_as_number": 80
     },
     {
         "id": 1100446,
@@ -6423,7 +6660,8 @@ var array_data_general = [
         ],
         "prefectId": 2300005,
         "warlordId": 2200039,
-        "name_in_chinese": "贺齐"
+        "name_in_chinese": "贺齐",
+        "gender_as_number": 80
     },
     {
         "id": 1100458,
@@ -6450,7 +6688,8 @@ var array_data_general = [
         ],
         "prefectId": 2300011,
         "warlordId": 2200035,
-        "name_in_chinese": "许靖"
+        "name_in_chinese": "许靖",
+        "gender_as_number": 80
     },
     {
         "id": 1100333,
@@ -6477,7 +6716,8 @@ var array_data_general = [
         ],
         "prefectId": 2300010,
         "warlordId": 2200026,
-        "name_in_chinese": "孙峻"
+        "name_in_chinese": "孙峻",
+        "gender_as_number": 80
     },
     {
         "id": 1100357,
@@ -6504,7 +6744,8 @@ var array_data_general = [
         ],
         "prefectId": 2300007,
         "warlordId": 2200036,
-        "name_in_chinese": "吾彦"
+        "name_in_chinese": "吾彦",
+        "gender_as_number": 80
     },
     {
         "id": 1100734,
@@ -6531,7 +6772,8 @@ var array_data_general = [
         ],
         "prefectId": 2300010,
         "warlordId": 2200012,
-        "name_in_chinese": "黄祖"
+        "name_in_chinese": "黄祖",
+        "gender_as_number": 80
     },
     {
         "id": 1100307,
@@ -6558,7 +6800,8 @@ var array_data_general = [
         ],
         "prefectId": 2300012,
         "warlordId": 2200034,
-        "name_in_chinese": "步骘"
+        "name_in_chinese": "步骘",
+        "gender_as_number": 80
     },
     {
         "id": 1100769,
@@ -6585,7 +6828,8 @@ var array_data_general = [
         ],
         "prefectId": 2300009,
         "warlordId": 2200036,
-        "name_in_chinese": "谭雄"
+        "name_in_chinese": "谭雄",
+        "gender_as_number": 80
     },
     {
         "id": 1100337,
@@ -6612,7 +6856,8 @@ var array_data_general = [
         ],
         "prefectId": 2300007,
         "warlordId": 2200013,
-        "name_in_chinese": "孙休"
+        "name_in_chinese": "孙休",
+        "gender_as_number": 80
     },
     {
         "id": 1100267,
@@ -6639,7 +6884,8 @@ var array_data_general = [
         ],
         "prefectId": 2300011,
         "warlordId": 2200007,
-        "name_in_chinese": "阚泽"
+        "name_in_chinese": "阚泽",
+        "gender_as_number": 80
     },
     {
         "id": 1100656,
@@ -6666,7 +6912,8 @@ var array_data_general = [
         ],
         "prefectId": 2300009,
         "warlordId": 2200014,
-        "name_in_chinese": "潘璋"
+        "name_in_chinese": "潘璋",
+        "gender_as_number": 80
     },
     {
         "id": 1100405,
@@ -6693,7 +6940,8 @@ var array_data_general = [
         ],
         "prefectId": 2300002,
         "warlordId": 2200036,
-        "name_in_chinese": "诸葛恪"
+        "name_in_chinese": "诸葛恪",
+        "gender_as_number": 80
     },
     {
         "id": 1100326,
@@ -6720,7 +6968,8 @@ var array_data_general = [
         ],
         "prefectId": 2300006,
         "warlordId": 2200036,
-        "name_in_chinese": "孙登"
+        "name_in_chinese": "孙登",
+        "gender_as_number": 80
     },
     {
         "id": 1100473,
@@ -6747,7 +6996,8 @@ var array_data_general = [
         ],
         "prefectId": 2300001,
         "warlordId": 2200035,
-        "name_in_chinese": "孙鲁育"
+        "name_in_chinese": "孙鲁育",
+        "gender_as_number": 20
     },
     {
         "id": 1100470,
@@ -6774,7 +7024,8 @@ var array_data_general = [
         ],
         "prefectId": 2300001,
         "warlordId": 2200001,
-        "name_in_chinese": "小乔"
+        "name_in_chinese": "小乔",
+        "gender_as_number": 20
     },
     {
         "id": 1100426,
@@ -6801,7 +7052,8 @@ var array_data_general = [
         ],
         "prefectId": 2300002,
         "warlordId": 2200036,
-        "name_in_chinese": "朱然"
+        "name_in_chinese": "朱然",
+        "gender_as_number": 80
     },
     {
         "id": 1100658,
@@ -6828,7 +7080,8 @@ var array_data_general = [
         ],
         "prefectId": 2300001,
         "warlordId": 2200027,
-        "name_in_chinese": "甘宁"
+        "name_in_chinese": "甘宁",
+        "gender_as_number": 80
     },
     {
         "id": 1100652,
@@ -6855,7 +7108,8 @@ var array_data_general = [
         ],
         "prefectId": 2300009,
         "warlordId": 2200026,
-        "name_in_chinese": "鲁肃"
+        "name_in_chinese": "鲁肃",
+        "gender_as_number": 80
     },
     {
         "id": 1100651,
@@ -6882,7 +7136,8 @@ var array_data_general = [
         ],
         "prefectId": 2300003,
         "warlordId": 2200002,
-        "name_in_chinese": "周瑜"
+        "name_in_chinese": "周瑜",
+        "gender_as_number": 80
     },
     {
         "id": 1100772,
@@ -6909,7 +7164,8 @@ var array_data_general = [
         ],
         "prefectId": 2300008,
         "warlordId": 2200017,
-        "name_in_chinese": "迷当大王"
+        "name_in_chinese": "迷当大王",
+        "gender_as_number": 80
     },
     {
         "id": 1100443,
@@ -6936,7 +7192,8 @@ var array_data_general = [
         ],
         "prefectId": 2300016,
         "warlordId": 2200005,
-        "name_in_chinese": "崔琰"
+        "name_in_chinese": "崔琰",
+        "gender_as_number": 80
     },
     {
         "id": 1100966,
@@ -6963,7 +7220,8 @@ var array_data_general = [
         ],
         "prefectId": 2300004,
         "warlordId": 2200008,
-        "name_in_chinese": "车冑"
+        "name_in_chinese": "车冑",
+        "gender_as_number": 80
     },
     {
         "id": 1100967,
@@ -6990,7 +7248,8 @@ var array_data_general = [
         ],
         "prefectId": 2300006,
         "warlordId": 2200019,
-        "name_in_chinese": "王充"
+        "name_in_chinese": "王充",
+        "gender_as_number": 80
     },
     {
         "id": 1100613,
@@ -7017,7 +7276,8 @@ var array_data_general = [
         ],
         "prefectId": 2300013,
         "warlordId": 2200007,
-        "name_in_chinese": "伊籍"
+        "name_in_chinese": "伊籍",
+        "gender_as_number": 80
     },
     {
         "id": 1100271,
@@ -7044,7 +7304,8 @@ var array_data_general = [
         ],
         "prefectId": 2300009,
         "warlordId": 2200030,
-        "name_in_chinese": "公孙康"
+        "name_in_chinese": "公孙康",
+        "gender_as_number": 80
     },
     {
         "id": 1100765,
@@ -7071,7 +7332,8 @@ var array_data_general = [
         ],
         "prefectId": 2300009,
         "warlordId": 2200038,
-        "name_in_chinese": "赵范"
+        "name_in_chinese": "赵范",
+        "gender_as_number": 80
     },
     {
         "id": 1100454,
@@ -7098,7 +7360,8 @@ var array_data_general = [
         ],
         "prefectId": 2300009,
         "warlordId": 2200038,
-        "name_in_chinese": "韩玄"
+        "name_in_chinese": "韩玄",
+        "gender_as_number": 80
     },
     {
         "id": 1100294,
@@ -7125,7 +7388,8 @@ var array_data_general = [
         ],
         "prefectId": 2300006,
         "warlordId": 2200015,
-        "name_in_chinese": "董和"
+        "name_in_chinese": "董和",
+        "gender_as_number": 80
     },
     {
         "id": 1100636,
@@ -7152,7 +7416,8 @@ var array_data_general = [
         ],
         "prefectId": 2300004,
         "warlordId": 2200015,
-        "name_in_chinese": "吴兰"
+        "name_in_chinese": "吴兰",
+        "gender_as_number": 80
     },
     {
         "id": 1100281,
@@ -7179,7 +7444,8 @@ var array_data_general = [
         ],
         "prefectId": 2300006,
         "warlordId": 2200033,
-        "name_in_chinese": "国渊"
+        "name_in_chinese": "国渊",
+        "gender_as_number": 80
     },
     {
         "id": 1100435,
@@ -7206,7 +7472,8 @@ var array_data_general = [
         ],
         "prefectId": 2300014,
         "warlordId": 2200026,
-        "name_in_chinese": "陈到"
+        "name_in_chinese": "陈到",
+        "gender_as_number": 80
     },
     {
         "id": 1100399,
@@ -7233,7 +7500,8 @@ var array_data_general = [
         ],
         "prefectId": 2300010,
         "warlordId": 2200015,
-        "name_in_chinese": "张任"
+        "name_in_chinese": "张任",
+        "gender_as_number": 80
     },
     {
         "id": 1100434,
@@ -7260,7 +7528,8 @@ var array_data_general = [
         ],
         "prefectId": 2300009,
         "warlordId": 2200034,
-        "name_in_chinese": "陈珪"
+        "name_in_chinese": "陈珪",
+        "gender_as_number": 80
     },
     {
         "id": 1100436,
@@ -7287,7 +7556,8 @@ var array_data_general = [
         ],
         "prefectId": 2300015,
         "warlordId": 2200001,
-        "name_in_chinese": "陈登"
+        "name_in_chinese": "陈登",
+        "gender_as_number": 80
     },
     {
         "id": 1100312,
@@ -7314,7 +7584,8 @@ var array_data_general = [
         ],
         "prefectId": 2300016,
         "warlordId": 2200020,
-        "name_in_chinese": "费耀"
+        "name_in_chinese": "费耀",
+        "gender_as_number": 80
     },
     {
         "id": 1100610,
@@ -7341,7 +7612,8 @@ var array_data_general = [
         ],
         "prefectId": 2300015,
         "warlordId": 2200028,
-        "name_in_chinese": "黄忠"
+        "name_in_chinese": "黄忠",
+        "gender_as_number": 80
     },
     {
         "id": 1100737,
@@ -7368,7 +7640,8 @@ var array_data_general = [
         ],
         "prefectId": 2300003,
         "warlordId": 2200016,
-        "name_in_chinese": "范强"
+        "name_in_chinese": "范强",
+        "gender_as_number": 80
     },
     {
         "id": 1100736,
@@ -7395,7 +7668,8 @@ var array_data_general = [
         ],
         "prefectId": 2300006,
         "warlordId": 2200040,
-        "name_in_chinese": "张达"
+        "name_in_chinese": "张达",
+        "gender_as_number": 80
     },
     {
         "id": 1100970,
@@ -7422,7 +7696,8 @@ var array_data_general = [
         ],
         "prefectId": 2300014,
         "warlordId": 2200022,
-        "name_in_chinese": "李异"
+        "name_in_chinese": "李异",
+        "gender_as_number": 80
     },
     {
         "id": 1100409,
@@ -7449,7 +7724,8 @@ var array_data_general = [
         ],
         "prefectId": 2300009,
         "warlordId": 2200038,
-        "name_in_chinese": "赵累"
+        "name_in_chinese": "赵累",
+        "gender_as_number": 80
     },
     {
         "id": 1100948,
@@ -7476,7 +7752,8 @@ var array_data_general = [
         ],
         "prefectId": 2300011,
         "warlordId": 2200015,
-        "name_in_chinese": "刘璝"
+        "name_in_chinese": "刘璝",
+        "gender_as_number": 80
     },
     {
         "id": 1100949,
@@ -7503,7 +7780,8 @@ var array_data_general = [
         ],
         "prefectId": 2300006,
         "warlordId": 2200041,
-        "name_in_chinese": "泠苞"
+        "name_in_chinese": "泠苞",
+        "gender_as_number": 80
     },
     {
         "id": 1100969,
@@ -7530,7 +7808,8 @@ var array_data_general = [
         ],
         "prefectId": 2300009,
         "warlordId": 2200041,
-        "name_in_chinese": "高沛"
+        "name_in_chinese": "高沛",
+        "gender_as_number": 80
     },
     {
         "id": 1100968,
@@ -7557,7 +7836,8 @@ var array_data_general = [
         ],
         "prefectId": 2300011,
         "warlordId": 2200041,
-        "name_in_chinese": "杨怀"
+        "name_in_chinese": "杨怀",
+        "gender_as_number": 80
     },
     {
         "id": 1100634,
@@ -7584,7 +7864,8 @@ var array_data_general = [
         ],
         "prefectId": 2300009,
         "warlordId": 2200042,
-        "name_in_chinese": "李严"
+        "name_in_chinese": "李严",
+        "gender_as_number": 80
     },
     {
         "id": 1100790,
@@ -7611,7 +7892,8 @@ var array_data_general = [
         ],
         "prefectId": 2300014,
         "warlordId": 2200035,
-        "name_in_chinese": "冯习"
+        "name_in_chinese": "冯习",
+        "gender_as_number": 80
     },
     {
         "id": 1100612,
@@ -7638,7 +7920,8 @@ var array_data_general = [
         ],
         "prefectId": 2300009,
         "warlordId": 2200041,
-        "name_in_chinese": "法正"
+        "name_in_chinese": "法正",
+        "gender_as_number": 80
     },
     {
         "id": 1100637,
@@ -7665,7 +7948,8 @@ var array_data_general = [
         ],
         "prefectId": 2300011,
         "warlordId": 2200025,
-        "name_in_chinese": "雷铜"
+        "name_in_chinese": "雷铜",
+        "gender_as_number": 80
     },
     {
         "id": 1100401,
@@ -7692,7 +7976,8 @@ var array_data_general = [
         ],
         "prefectId": 2300014,
         "warlordId": 2200004,
-        "name_in_chinese": "张华"
+        "name_in_chinese": "张华",
+        "gender_as_number": 80
     },
     {
         "id": 1100780,
@@ -7719,7 +8004,8 @@ var array_data_general = [
         ],
         "prefectId": 2300016,
         "warlordId": 2200015,
-        "name_in_chinese": "吴班"
+        "name_in_chinese": "吴班",
+        "gender_as_number": 80
     },
     {
         "id": 1100622,
@@ -7746,7 +8032,8 @@ var array_data_general = [
         ],
         "prefectId": 2300014,
         "warlordId": 2200041,
-        "name_in_chinese": "严颜"
+        "name_in_chinese": "严颜",
+        "gender_as_number": 80
     },
     {
         "id": 1100464,
@@ -7773,7 +8060,8 @@ var array_data_general = [
         ],
         "prefectId": 2300009,
         "warlordId": 2200015,
-        "name_in_chinese": "黄权"
+        "name_in_chinese": "黄权",
+        "gender_as_number": 80
     },
     {
         "id": 1100476,
@@ -7800,7 +8088,8 @@ var array_data_general = [
         ],
         "prefectId": 2300002,
         "warlordId": 2200027,
-        "name_in_chinese": "张氏"
+        "name_in_chinese": "张氏",
+        "gender_as_number": 20
     },
     {
         "id": 1100628,
@@ -7827,7 +8116,8 @@ var array_data_general = [
         ],
         "prefectId": 2300002,
         "warlordId": 2200026,
-        "name_in_chinese": "张苞"
+        "name_in_chinese": "张苞",
+        "gender_as_number": 80
     },
     {
         "id": 1100479,
@@ -7854,7 +8144,8 @@ var array_data_general = [
         ],
         "prefectId": 2300001,
         "warlordId": 2200028,
-        "name_in_chinese": "关银屏"
+        "name_in_chinese": "关银屏",
+        "gender_as_number": 20
     },
     {
         "id": 1100635,
@@ -7881,7 +8172,8 @@ var array_data_general = [
         ],
         "prefectId": 2300001,
         "warlordId": 2200040,
-        "name_in_chinese": "吴懿"
+        "name_in_chinese": "吴懿",
+        "gender_as_number": 80
     },
     {
         "id": 1100607,
@@ -7908,7 +8200,8 @@ var array_data_general = [
         ],
         "prefectId": 2300002,
         "warlordId": 2200047,
-        "name_in_chinese": "张飞"
+        "name_in_chinese": "张飞",
+        "gender_as_number": 80
     },
     {
         "id": 1100342,
@@ -7935,7 +8228,8 @@ var array_data_general = [
         ],
         "prefectId": 2300003,
         "warlordId": 2200022,
-        "name_in_chinese": "杨松"
+        "name_in_chinese": "杨松",
+        "gender_as_number": 80
     },
     {
         "id": 1100348,
@@ -7962,7 +8256,8 @@ var array_data_general = [
         ],
         "prefectId": 2300008,
         "warlordId": 2200011,
-        "name_in_chinese": "杨洪"
+        "name_in_chinese": "杨洪",
+        "gender_as_number": 80
     },
     {
         "id": 1100738,
@@ -7989,7 +8284,8 @@ var array_data_general = [
         ],
         "prefectId": 2300004,
         "warlordId": 2200048,
-        "name_in_chinese": "韩福"
+        "name_in_chinese": "韩福",
+        "gender_as_number": 80
     },
     {
         "id": 1100756,
@@ -8016,7 +8312,8 @@ var array_data_general = [
         ],
         "prefectId": 2300012,
         "warlordId": 2200014,
-        "name_in_chinese": "张松"
+        "name_in_chinese": "张松",
+        "gender_as_number": 80
     },
     {
         "id": 1100625,
@@ -8043,7 +8340,8 @@ var array_data_general = [
         ],
         "prefectId": 2300009,
         "warlordId": 2200040,
-        "name_in_chinese": "王甫"
+        "name_in_chinese": "王甫",
+        "gender_as_number": 80
     },
     {
         "id": 1100632,
@@ -8070,7 +8368,8 @@ var array_data_general = [
         ],
         "prefectId": 2300008,
         "warlordId": 2200017,
-        "name_in_chinese": "马岱"
+        "name_in_chinese": "马岱",
+        "gender_as_number": 80
     },
     {
         "id": 1100341,
@@ -8097,7 +8396,8 @@ var array_data_general = [
         ],
         "prefectId": 2300006,
         "warlordId": 2200020,
-        "name_in_chinese": "杨阜"
+        "name_in_chinese": "杨阜",
+        "gender_as_number": 80
     },
     {
         "id": 1100389,
@@ -8124,7 +8424,8 @@ var array_data_general = [
         ],
         "prefectId": 2300012,
         "warlordId": 2200042,
-        "name_in_chinese": "李恢"
+        "name_in_chinese": "李恢",
+        "gender_as_number": 80
     },
     {
         "id": 1100746,
@@ -8151,7 +8452,8 @@ var array_data_general = [
         ],
         "prefectId": 2300006,
         "warlordId": 2200017,
-        "name_in_chinese": "马休"
+        "name_in_chinese": "马休",
+        "gender_as_number": 80
     },
     {
         "id": 1100324,
@@ -8178,7 +8480,8 @@ var array_data_general = [
         ],
         "prefectId": 2300005,
         "warlordId": 2200026,
-        "name_in_chinese": "成公英"
+        "name_in_chinese": "成公英",
+        "gender_as_number": 80
     },
     {
         "id": 1100800,
@@ -8205,7 +8508,8 @@ var array_data_general = [
         ],
         "prefectId": 2300006,
         "warlordId": 2200017,
-        "name_in_chinese": "马姫"
+        "name_in_chinese": "马姫",
+        "gender_as_number": 20
     },
     {
         "id": 1100794,
@@ -8232,7 +8536,8 @@ var array_data_general = [
         ],
         "prefectId": 2300010,
         "warlordId": 2200046,
-        "name_in_chinese": "阎行"
+        "name_in_chinese": "阎行",
+        "gender_as_number": 80
     },
     {
         "id": 1100712,
@@ -8259,7 +8564,8 @@ var array_data_general = [
         ],
         "prefectId": 2300010,
         "warlordId": 2200023,
-        "name_in_chinese": "马腾"
+        "name_in_chinese": "马腾",
+        "gender_as_number": 80
     },
     {
         "id": 1100414,
@@ -8286,7 +8592,8 @@ var array_data_general = [
         ],
         "prefectId": 2300002,
         "warlordId": 2200002,
-        "name_in_chinese": "王异"
+        "name_in_chinese": "王异",
+        "gender_as_number": 20
     },
     {
         "id": 1100713,
@@ -8313,7 +8620,8 @@ var array_data_general = [
         ],
         "prefectId": 2300007,
         "warlordId": 2200043,
-        "name_in_chinese": "韩遂"
+        "name_in_chinese": "韩遂",
+        "gender_as_number": 80
     },
     {
         "id": 1100484,
@@ -8340,7 +8648,8 @@ var array_data_general = [
         ],
         "prefectId": 2300015,
         "warlordId": 2200027,
-        "name_in_chinese": "马云騄"
+        "name_in_chinese": "马云騄",
+        "gender_as_number": 20
     },
     {
         "id": 1100631,
@@ -8367,7 +8676,8 @@ var array_data_general = [
         ],
         "prefectId": 2300001,
         "warlordId": 2200027,
-        "name_in_chinese": "马超"
+        "name_in_chinese": "马超",
+        "gender_as_number": 80
     },
     {
         "id": 1100351,
@@ -8394,7 +8704,8 @@ var array_data_general = [
         ],
         "prefectId": 2300001,
         "warlordId": 2200034,
-        "name_in_chinese": "严畯"
+        "name_in_chinese": "严畯",
+        "gender_as_number": 80
     },
     {
         "id": 1100776,
@@ -8421,7 +8732,8 @@ var array_data_general = [
         ],
         "prefectId": 2300014,
         "warlordId": 2200034,
-        "name_in_chinese": "乐就"
+        "name_in_chinese": "乐就",
+        "gender_as_number": 80
     },
     {
         "id": 1100338,
@@ -8448,7 +8760,8 @@ var array_data_general = [
         ],
         "prefectId": 2300001,
         "warlordId": 2200026,
-        "name_in_chinese": "荀谌"
+        "name_in_chinese": "荀谌",
+        "gender_as_number": 80
     },
     {
         "id": 1100432,
@@ -8475,7 +8788,8 @@ var array_data_general = [
         ],
         "prefectId": 2300010,
         "warlordId": 2200034,
-        "name_in_chinese": "陈矫"
+        "name_in_chinese": "陈矫",
+        "gender_as_number": 80
     },
     {
         "id": 1100702,
@@ -8502,7 +8816,8 @@ var array_data_general = [
         ],
         "prefectId": 2300003,
         "warlordId": 2200043,
-        "name_in_chinese": "张济"
+        "name_in_chinese": "张济",
+        "gender_as_number": 80
     },
     {
         "id": 1100957,
@@ -8529,7 +8844,8 @@ var array_data_general = [
         ],
         "prefectId": 2300009,
         "warlordId": 2200007,
-        "name_in_chinese": "曹爽"
+        "name_in_chinese": "曹爽",
+        "gender_as_number": 80
     },
     {
         "id": 1100782,
@@ -8556,7 +8872,8 @@ var array_data_general = [
         ],
         "prefectId": 2300005,
         "warlordId": 2200042,
-        "name_in_chinese": "蔡中"
+        "name_in_chinese": "蔡中",
+        "gender_as_number": 80
     },
     {
         "id": 1100783,
@@ -8583,7 +8900,8 @@ var array_data_general = [
         ],
         "prefectId": 2300009,
         "warlordId": 2200033,
-        "name_in_chinese": "蔡和"
+        "name_in_chinese": "蔡和",
+        "gender_as_number": 80
     },
     {
         "id": 1100266,
@@ -8610,7 +8928,8 @@ var array_data_general = [
         ],
         "prefectId": 2300009,
         "warlordId": 2200025,
-        "name_in_chinese": "贾逵"
+        "name_in_chinese": "贾逵",
+        "gender_as_number": 80
     },
     {
         "id": 1100845,
@@ -8637,7 +8956,8 @@ var array_data_general = [
         ],
         "prefectId": 2300004,
         "warlordId": 2200003,
-        "name_in_chinese": "夏侯德"
+        "name_in_chinese": "夏侯德",
+        "gender_as_number": 80
     },
     {
         "id": 1100809,
@@ -8664,7 +8984,8 @@ var array_data_general = [
         ],
         "prefectId": 2300006,
         "warlordId": 2200003,
-        "name_in_chinese": "丁原"
+        "name_in_chinese": "丁原",
+        "gender_as_number": 80
     },
     {
         "id": 1100321,
@@ -8691,7 +9012,8 @@ var array_data_general = [
         ],
         "prefectId": 2300006,
         "warlordId": 2200030,
-        "name_in_chinese": "徐邈"
+        "name_in_chinese": "徐邈",
+        "gender_as_number": 80
     },
     {
         "id": 1100380,
@@ -8718,7 +9040,8 @@ var array_data_general = [
         ],
         "prefectId": 2300006,
         "warlordId": 2200023,
-        "name_in_chinese": "刘劭"
+        "name_in_chinese": "刘劭",
+        "gender_as_number": 80
     },
     {
         "id": 1100356,
@@ -8745,7 +9068,8 @@ var array_data_general = [
         ],
         "prefectId": 2300015,
         "warlordId": 2200020,
-        "name_in_chinese": "阎柔"
+        "name_in_chinese": "阎柔",
+        "gender_as_number": 80
     },
     {
         "id": 1100801,
@@ -8772,7 +9096,8 @@ var array_data_general = [
         ],
         "prefectId": 2300001,
         "warlordId": 2200023,
-        "name_in_chinese": "曹节"
+        "name_in_chinese": "曹节",
+        "gender_as_number": 20
     },
     {
         "id": 1100359,
@@ -8799,7 +9124,8 @@ var array_data_general = [
         ],
         "prefectId": 2300016,
         "warlordId": 2200003,
-        "name_in_chinese": "温恢"
+        "name_in_chinese": "温恢",
+        "gender_as_number": 80
     },
     {
         "id": 1100621,
@@ -8826,7 +9152,8 @@ var array_data_general = [
         ],
         "prefectId": 2300002,
         "warlordId": 2200028,
-        "name_in_chinese": "周仓"
+        "name_in_chinese": "周仓",
+        "gender_as_number": 80
     },
     {
         "id": 1100718,
@@ -8853,7 +9180,8 @@ var array_data_general = [
         ],
         "prefectId": 2300009,
         "warlordId": 2200043,
-        "name_in_chinese": "胡车儿"
+        "name_in_chinese": "胡车儿",
+        "gender_as_number": 80
     },
     {
         "id": 1100611,
@@ -8880,7 +9208,8 @@ var array_data_general = [
         ],
         "prefectId": 2300001,
         "warlordId": 2200027,
-        "name_in_chinese": "魏延"
+        "name_in_chinese": "魏延",
+        "gender_as_number": 80
     },
     {
         "id": 1100717,
@@ -8907,7 +9236,8 @@ var array_data_general = [
         ],
         "prefectId": 2300010,
         "warlordId": 2200040,
-        "name_in_chinese": "武将"
+        "name_in_chinese": "武将",
+        "gender_as_number": 80
     },
     {
         "id": 1100171,
@@ -8934,7 +9264,8 @@ var array_data_general = [
         ],
         "prefectId": 2300003,
         "warlordId": 2200047,
-        "name_in_chinese": "诸葛亮"
+        "name_in_chinese": "诸葛亮",
+        "gender_as_number": 80
     },
     {
         "id": 1100775,
@@ -8961,7 +9292,8 @@ var array_data_general = [
         ],
         "prefectId": 2300006,
         "warlordId": 2200025,
-        "name_in_chinese": "俄何烧戈"
+        "name_in_chinese": "俄何烧戈",
+        "gender_as_number": 80
     },
     {
         "id": 1100730,
@@ -8988,7 +9320,8 @@ var array_data_general = [
         ],
         "prefectId": 2300004,
         "warlordId": 2200016,
-        "name_in_chinese": "雍闿"
+        "name_in_chinese": "雍闿",
+        "gender_as_number": 80
     },
     {
         "id": 1100289,
@@ -9015,7 +9348,8 @@ var array_data_general = [
         ],
         "prefectId": 2300008,
         "warlordId": 2200048,
-        "name_in_chinese": "带来洞主"
+        "name_in_chinese": "带来洞主",
+        "gender_as_number": 80
     },
     {
         "id": 1100729,
@@ -9042,7 +9376,8 @@ var array_data_general = [
         ],
         "prefectId": 2300006,
         "warlordId": 2200016,
-        "name_in_chinese": "高定"
+        "name_in_chinese": "高定",
+        "gender_as_number": 80
     },
     {
         "id": 1100963,
@@ -9069,7 +9404,8 @@ var array_data_general = [
         ],
         "prefectId": 2300001,
         "warlordId": 2200016,
-        "name_in_chinese": "阿会喃"
+        "name_in_chinese": "阿会喃",
+        "gender_as_number": 80
     },
     {
         "id": 1100965,
@@ -9096,7 +9432,8 @@ var array_data_general = [
         ],
         "prefectId": 2300016,
         "warlordId": 2200016,
-        "name_in_chinese": "奚泥"
+        "name_in_chinese": "奚泥",
+        "gender_as_number": 80
     },
     {
         "id": 1100825,
@@ -9123,7 +9460,8 @@ var array_data_general = [
         ],
         "prefectId": 2300010,
         "warlordId": 2200022,
-        "name_in_chinese": "花鬘"
+        "name_in_chinese": "花鬘",
+        "gender_as_number": 20
     },
     {
         "id": 1100766,
@@ -9150,7 +9488,8 @@ var array_data_general = [
         ],
         "prefectId": 2300011,
         "warlordId": 2200016,
-        "name_in_chinese": "金环三结"
+        "name_in_chinese": "金环三结",
+        "gender_as_number": 80
     },
     {
         "id": 1100444,
@@ -9177,7 +9516,8 @@ var array_data_general = [
         ],
         "prefectId": 2300005,
         "warlordId": 2200023,
-        "name_in_chinese": "朵思大王"
+        "name_in_chinese": "朵思大王",
+        "gender_as_number": 80
     },
     {
         "id": 1100964,
@@ -9204,7 +9544,8 @@ var array_data_general = [
         ],
         "prefectId": 2300011,
         "warlordId": 2200016,
-        "name_in_chinese": "忙牙长"
+        "name_in_chinese": "忙牙长",
+        "gender_as_number": 80
     },
     {
         "id": 1100646,
@@ -9231,7 +9572,8 @@ var array_data_general = [
         ],
         "prefectId": 2300002,
         "warlordId": 2200002,
-        "name_in_chinese": "祝融"
+        "name_in_chinese": "祝融",
+        "gender_as_number": 20
     },
     {
         "id": 1100647,
@@ -9258,7 +9600,8 @@ var array_data_general = [
         ],
         "prefectId": 2300011,
         "warlordId": 2200026,
-        "name_in_chinese": "孟优"
+        "name_in_chinese": "孟优",
+        "gender_as_number": 80
     },
     {
         "id": 1100360,
@@ -9285,7 +9628,8 @@ var array_data_general = [
         ],
         "prefectId": 2300016,
         "warlordId": 2200022,
-        "name_in_chinese": "兀突骨"
+        "name_in_chinese": "兀突骨",
+        "gender_as_number": 80
     },
     {
         "id": 1100768,
@@ -9312,7 +9656,8 @@ var array_data_general = [
         ],
         "prefectId": 2300009,
         "warlordId": 2200016,
-        "name_in_chinese": "董荼那"
+        "name_in_chinese": "董荼那",
+        "gender_as_number": 80
     },
     {
         "id": 1100303,
@@ -9339,7 +9684,8 @@ var array_data_general = [
         ],
         "prefectId": 2300006,
         "warlordId": 2200042,
-        "name_in_chinese": "木鹿大王"
+        "name_in_chinese": "木鹿大王",
+        "gender_as_number": 80
     },
     {
         "id": 1100626,
@@ -9366,7 +9712,8 @@ var array_data_general = [
         ],
         "prefectId": 2300013,
         "warlordId": 2200038,
-        "name_in_chinese": "沙摩柯"
+        "name_in_chinese": "沙摩柯",
+        "gender_as_number": 80
     },
     {
         "id": 1100645,
@@ -9393,7 +9740,8 @@ var array_data_general = [
         ],
         "prefectId": 2300015,
         "warlordId": 2200027,
-        "name_in_chinese": "孟获"
+        "name_in_chinese": "孟获",
+        "gender_as_number": 80
     },
     {
         "id": 1100719,
@@ -9420,7 +9768,8 @@ var array_data_general = [
         ],
         "prefectId": 2300006,
         "warlordId": 2200009,
-        "name_in_chinese": "陶谦"
+        "name_in_chinese": "陶谦",
+        "gender_as_number": 80
     },
     {
         "id": 1100619,
@@ -9447,7 +9796,8 @@ var array_data_general = [
         ],
         "prefectId": 2300008,
         "warlordId": 2200026,
-        "name_in_chinese": "刘封"
+        "name_in_chinese": "刘封",
+        "gender_as_number": 80
     },
     {
         "id": 1100727,
@@ -9474,7 +9824,8 @@ var array_data_general = [
         ],
         "prefectId": 2300009,
         "warlordId": 2200015,
-        "name_in_chinese": "刘璋"
+        "name_in_chinese": "刘璋",
+        "gender_as_number": 80
     },
     {
         "id": 1100808,
@@ -9501,7 +9852,8 @@ var array_data_general = [
         ],
         "prefectId": 2300008,
         "warlordId": 2200037,
-        "name_in_chinese": "刘琮"
+        "name_in_chinese": "刘琮",
+        "gender_as_number": 80
     },
     {
         "id": 1100757,
@@ -9528,7 +9880,8 @@ var array_data_general = [
         ],
         "prefectId": 2300013,
         "warlordId": 2200025,
-        "name_in_chinese": "祢衡"
+        "name_in_chinese": "祢衡",
+        "gender_as_number": 80
     },
     {
         "id": 1100762,
@@ -9555,7 +9908,8 @@ var array_data_general = [
         ],
         "prefectId": 2300015,
         "warlordId": 2200022,
-        "name_in_chinese": "巩志"
+        "name_in_chinese": "巩志",
+        "gender_as_number": 80
     },
     {
         "id": 1100362,
@@ -9582,7 +9936,8 @@ var array_data_general = [
         ],
         "prefectId": 2300013,
         "warlordId": 2200022,
-        "name_in_chinese": "王匡"
+        "name_in_chinese": "王匡",
+        "gender_as_number": 80
     },
     {
         "id": 1100404,
@@ -9609,7 +9964,8 @@ var array_data_general = [
         ],
         "prefectId": 2300001,
         "warlordId": 2200004,
-        "name_in_chinese": "田畴"
+        "name_in_chinese": "田畴",
+        "gender_as_number": 80
     },
     {
         "id": 1100840,
@@ -9636,7 +9992,8 @@ var array_data_general = [
         ],
         "prefectId": 2300003,
         "warlordId": 2200025,
-        "name_in_chinese": "张遵"
+        "name_in_chinese": "张遵",
+        "gender_as_number": 80
     },
     {
         "id": 1100383,
@@ -9663,7 +10020,8 @@ var array_data_general = [
         ],
         "prefectId": 2300004,
         "warlordId": 2200022,
-        "name_in_chinese": "刘虞"
+        "name_in_chinese": "刘虞",
+        "gender_as_number": 80
     },
     {
         "id": 1100480,
@@ -9690,7 +10048,8 @@ var array_data_general = [
         ],
         "prefectId": 2300014,
         "warlordId": 2200037,
-        "name_in_chinese": "夏侯红"
+        "name_in_chinese": "夏侯红",
+        "gender_as_number": 20
     },
     {
         "id": 1100381,
@@ -9717,7 +10076,8 @@ var array_data_general = [
         ],
         "prefectId": 2300008,
         "warlordId": 2200026,
-        "name_in_chinese": "刘焉"
+        "name_in_chinese": "刘焉",
+        "gender_as_number": 80
     },
     {
         "id": 1100950,
@@ -9744,7 +10104,8 @@ var array_data_general = [
         ],
         "prefectId": 2300014,
         "warlordId": 2200026,
-        "name_in_chinese": "费观"
+        "name_in_chinese": "费观",
+        "gender_as_number": 80
     },
     {
         "id": 1100457,
@@ -9771,7 +10132,8 @@ var array_data_general = [
         ],
         "prefectId": 2300006,
         "warlordId": 2200025,
-        "name_in_chinese": "向宠"
+        "name_in_chinese": "向宠",
+        "gender_as_number": 80
     },
     {
         "id": 1100293,
@@ -9798,7 +10160,8 @@ var array_data_general = [
         ],
         "prefectId": 2300004,
         "warlordId": 2200041,
-        "name_in_chinese": "董允"
+        "name_in_chinese": "董允",
+        "gender_as_number": 80
     },
     {
         "id": 1100633,
@@ -9825,7 +10188,8 @@ var array_data_general = [
         ],
         "prefectId": 2300006,
         "warlordId": 2200015,
-        "name_in_chinese": "王平"
+        "name_in_chinese": "王平",
+        "gender_as_number": 80
     },
     {
         "id": 1100620,
@@ -9852,7 +10216,8 @@ var array_data_general = [
         ],
         "prefectId": 2300009,
         "warlordId": 2200037,
-        "name_in_chinese": "关平"
+        "name_in_chinese": "关平",
+        "gender_as_number": 80
     },
     {
         "id": 1100477,
@@ -9879,7 +10244,8 @@ var array_data_general = [
         ],
         "prefectId": 2300015,
         "warlordId": 2200028,
-        "name_in_chinese": "鲍三娘"
+        "name_in_chinese": "鲍三娘",
+        "gender_as_number": 20
     },
     {
         "id": 1100640,
@@ -9906,7 +10272,8 @@ var array_data_general = [
         ],
         "prefectId": 2300003,
         "warlordId": 2200037,
-        "name_in_chinese": "关索"
+        "name_in_chinese": "关索",
+        "gender_as_number": 80
     },
     {
         "id": 1100475,
@@ -9933,7 +10300,8 @@ var array_data_general = [
         ],
         "prefectId": 2300001,
         "warlordId": 2200024,
-        "name_in_chinese": "蔡琰"
+        "name_in_chinese": "蔡琰",
+        "gender_as_number": 20
     },
     {
         "id": 1100606,
@@ -9960,7 +10328,8 @@ var array_data_general = [
         ],
         "prefectId": 2300003,
         "warlordId": 2200021,
-        "name_in_chinese": "刘备"
+        "name_in_chinese": "刘备",
+        "gender_as_number": 80
     },
     {
         "id": 1100447,
@@ -9987,7 +10356,8 @@ var array_data_general = [
         ],
         "prefectId": 2300008,
         "warlordId": 2200017,
-        "name_in_chinese": "夏侯楙"
+        "name_in_chinese": "夏侯楙",
+        "gender_as_number": 80
     },
     {
         "id": 1100311,
@@ -10014,7 +10384,8 @@ var array_data_general = [
         ],
         "prefectId": 2300009,
         "warlordId": 2200020,
-        "name_in_chinese": "傅嘏"
+        "name_in_chinese": "傅嘏",
+        "gender_as_number": 80
     },
     {
         "id": 1100803,
@@ -10041,7 +10412,8 @@ var array_data_general = [
         ],
         "prefectId": 2300006,
         "warlordId": 2200004,
-        "name_in_chinese": "曹华"
+        "name_in_chinese": "曹华",
+        "gender_as_number": 20
     },
     {
         "id": 1100400,
@@ -10068,7 +10440,8 @@ var array_data_general = [
         ],
         "prefectId": 2300005,
         "warlordId": 2200030,
-        "name_in_chinese": "张特"
+        "name_in_chinese": "张特",
+        "gender_as_number": 80
     },
     {
         "id": 1100485,
@@ -10095,7 +10468,8 @@ var array_data_general = [
         ],
         "prefectId": 2300006,
         "warlordId": 2200036,
-        "name_in_chinese": "辛宪英"
+        "name_in_chinese": "辛宪英",
+        "gender_as_number": 20
     },
     {
         "id": 1100455,
@@ -10122,7 +10496,8 @@ var array_data_general = [
         ],
         "prefectId": 2300006,
         "warlordId": 2200048,
-        "name_in_chinese": "韩浩"
+        "name_in_chinese": "韩浩",
+        "gender_as_number": 80
     },
     {
         "id": 1100418,
@@ -10149,7 +10524,8 @@ var array_data_general = [
         ],
         "prefectId": 2300009,
         "warlordId": 2200048,
-        "name_in_chinese": "曹休"
+        "name_in_chinese": "曹休",
+        "gender_as_number": 80
     },
     {
         "id": 1100305,
@@ -10176,7 +10552,8 @@ var array_data_general = [
         ],
         "prefectId": 2300013,
         "warlordId": 2200039,
-        "name_in_chinese": "文钦"
+        "name_in_chinese": "文钦",
+        "gender_as_number": 80
     },
     {
         "id": 1100416,
@@ -10203,7 +10580,8 @@ var array_data_general = [
         ],
         "prefectId": 2300001,
         "warlordId": 2200007,
-        "name_in_chinese": "曹真"
+        "name_in_chinese": "曹真",
+        "gender_as_number": 80
     },
     {
         "id": 1100726,
@@ -10230,7 +10608,8 @@ var array_data_general = [
         ],
         "prefectId": 2300016,
         "warlordId": 2200045,
-        "name_in_chinese": "曹植"
+        "name_in_chinese": "曹植",
+        "gender_as_number": 80
     },
     {
         "id": 1100328,
@@ -10257,7 +10636,8 @@ var array_data_general = [
         ],
         "prefectId": 2300007,
         "warlordId": 2200022,
-        "name_in_chinese": "孙礼"
+        "name_in_chinese": "孙礼",
+        "gender_as_number": 80
     },
     {
         "id": 1100344,
@@ -10284,7 +10664,8 @@ var array_data_general = [
         ],
         "prefectId": 2300006,
         "warlordId": 2200022,
-        "name_in_chinese": "梁习"
+        "name_in_chinese": "梁习",
+        "gender_as_number": 80
     },
     {
         "id": 1100347,
@@ -10311,7 +10692,8 @@ var array_data_general = [
         ],
         "prefectId": 2300006,
         "warlordId": 2200016,
-        "name_in_chinese": "羊祜"
+        "name_in_chinese": "羊祜",
+        "gender_as_number": 80
     },
     {
         "id": 1100413,
@@ -10338,7 +10720,8 @@ var array_data_general = [
         ],
         "prefectId": 2300009,
         "warlordId": 2200032,
-        "name_in_chinese": "曹纯"
+        "name_in_chinese": "曹纯",
+        "gender_as_number": 80
     },
     {
         "id": 1100601,
@@ -10365,7 +10748,8 @@ var array_data_general = [
         ],
         "prefectId": 2300009,
         "warlordId": 2200037,
-        "name_in_chinese": "文聘"
+        "name_in_chinese": "文聘",
+        "gender_as_number": 80
     },
     {
         "id": 1100442,
@@ -10392,7 +10776,8 @@ var array_data_general = [
         ],
         "prefectId": 2300004,
         "warlordId": 2200038,
-        "name_in_chinese": "蔡瑁"
+        "name_in_chinese": "蔡瑁",
+        "gender_as_number": 80
     },
     {
         "id": 1100408,
@@ -10419,7 +10804,8 @@ var array_data_general = [
         ],
         "prefectId": 2300006,
         "warlordId": 2200034,
-        "name_in_chinese": "诸葛诞"
+        "name_in_chinese": "诸葛诞",
+        "gender_as_number": 80
     },
     {
         "id": 1100422,
@@ -10446,7 +10832,8 @@ var array_data_general = [
         ],
         "prefectId": 2300001,
         "warlordId": 2200027,
-        "name_in_chinese": "钟会"
+        "name_in_chinese": "钟会",
+        "gender_as_number": 80
     },
     {
         "id": 1100415,
@@ -10473,7 +10860,8 @@ var array_data_general = [
         ],
         "prefectId": 2300004,
         "warlordId": 2200031,
-        "name_in_chinese": "曹叡"
+        "name_in_chinese": "曹叡",
+        "gender_as_number": 80
     },
     {
         "id": 1100433,
@@ -10500,7 +10888,8 @@ var array_data_general = [
         ],
         "prefectId": 2300003,
         "warlordId": 2200002,
-        "name_in_chinese": "陈群"
+        "name_in_chinese": "陈群",
+        "gender_as_number": 80
     },
     {
         "id": 1100468,
@@ -10527,7 +10916,8 @@ var array_data_general = [
         ],
         "prefectId": 2300003,
         "warlordId": 2200001,
-        "name_in_chinese": "甄姫"
+        "name_in_chinese": "甄姫",
+        "gender_as_number": 20
     },
     {
         "id": 1100394,
@@ -10554,7 +10944,8 @@ var array_data_general = [
         ],
         "prefectId": 2300007,
         "warlordId": 2200031,
-        "name_in_chinese": "蒋斌"
+        "name_in_chinese": "蒋斌",
+        "gender_as_number": 80
     },
     {
         "id": 1100290,
@@ -10581,7 +10972,8 @@ var array_data_general = [
         ],
         "prefectId": 2300010,
         "warlordId": 2200016,
-        "name_in_chinese": "董厥"
+        "name_in_chinese": "董厥",
+        "gender_as_number": 80
     },
     {
         "id": 1100644,
@@ -10608,7 +11000,8 @@ var array_data_general = [
         ],
         "prefectId": 2300006,
         "warlordId": 2200041,
-        "name_in_chinese": "张翼"
+        "name_in_chinese": "张翼",
+        "gender_as_number": 80
     },
     {
         "id": 1100352,
@@ -10635,7 +11028,8 @@ var array_data_general = [
         ],
         "prefectId": 2300009,
         "warlordId": 2200016,
-        "name_in_chinese": "吕凯"
+        "name_in_chinese": "吕凯",
+        "gender_as_number": 80
     },
     {
         "id": 1100466,
@@ -10662,7 +11056,8 @@ var array_data_general = [
         ],
         "prefectId": 2300007,
         "warlordId": 2200022,
-        "name_in_chinese": "黄皓"
+        "name_in_chinese": "黄皓",
+        "gender_as_number": 80
     },
     {
         "id": 1100641,
@@ -10689,7 +11084,8 @@ var array_data_general = [
         ],
         "prefectId": 2300015,
         "warlordId": 2200015,
-        "name_in_chinese": "刘禅"
+        "name_in_chinese": "刘禅",
+        "gender_as_number": 80
     },
     {
         "id": 1100630,
@@ -10716,7 +11112,8 @@ var array_data_general = [
         ],
         "prefectId": 2300006,
         "warlordId": 2200007,
-        "name_in_chinese": "费祎"
+        "name_in_chinese": "费祎",
+        "gender_as_number": 80
     },
     {
         "id": 1100740,
@@ -10743,7 +11140,8 @@ var array_data_general = [
         ],
         "prefectId": 2300003,
         "warlordId": 2200023,
-        "name_in_chinese": "诸葛均"
+        "name_in_chinese": "诸葛均",
+        "gender_as_number": 80
     },
     {
         "id": 1100629,
@@ -10770,7 +11168,8 @@ var array_data_general = [
         ],
         "prefectId": 2300002,
         "warlordId": 2200012,
-        "name_in_chinese": "蒋琬"
+        "name_in_chinese": "蒋琬",
+        "gender_as_number": 80
     },
     {
         "id": 1100345,
@@ -10797,7 +11196,8 @@ var array_data_general = [
         ],
         "prefectId": 2300006,
         "warlordId": 2200037,
-        "name_in_chinese": "杨仪"
+        "name_in_chinese": "杨仪",
+        "gender_as_number": 80
     },
     {
         "id": 1100438,
@@ -10824,7 +11224,8 @@ var array_data_general = [
         ],
         "prefectId": 2300006,
         "warlordId": 2200040,
-        "name_in_chinese": "秦宓"
+        "name_in_chinese": "秦宓",
+        "gender_as_number": 80
     },
     {
         "id": 1100618,
@@ -10851,7 +11252,8 @@ var array_data_general = [
         ],
         "prefectId": 2300012,
         "warlordId": 2200037,
-        "name_in_chinese": "廖化"
+        "name_in_chinese": "廖化",
+        "gender_as_number": 80
     },
     {
         "id": 1100449,
@@ -10878,7 +11280,8 @@ var array_data_general = [
         ],
         "prefectId": 2300004,
         "warlordId": 2200042,
-        "name_in_chinese": "夏侯霸"
+        "name_in_chinese": "夏侯霸",
+        "gender_as_number": 80
     },
     {
         "id": 1100407,
@@ -10905,7 +11308,8 @@ var array_data_general = [
         ],
         "prefectId": 2300011,
         "warlordId": 2200015,
-        "name_in_chinese": "诸葛瞻"
+        "name_in_chinese": "诸葛瞻",
+        "gender_as_number": 80
     },
     {
         "id": 1100298,
@@ -10932,7 +11336,8 @@ var array_data_general = [
         ],
         "prefectId": 2300007,
         "warlordId": 2200040,
-        "name_in_chinese": "邓芝"
+        "name_in_chinese": "邓芝",
+        "gender_as_number": 80
     },
     {
         "id": 1100276,
@@ -10959,7 +11364,8 @@ var array_data_general = [
         ],
         "prefectId": 2300016,
         "warlordId": 2200011,
-        "name_in_chinese": "霍弋"
+        "name_in_chinese": "霍弋",
+        "gender_as_number": 80
     },
     {
         "id": 1100624,
@@ -10986,7 +11392,8 @@ var array_data_general = [
         ],
         "prefectId": 2300008,
         "warlordId": 2200048,
-        "name_in_chinese": "马谡"
+        "name_in_chinese": "马谡",
+        "gender_as_number": 80
     },
     {
         "id": 1100483,
@@ -11013,7 +11420,8 @@ var array_data_general = [
         ],
         "prefectId": 2300015,
         "warlordId": 2200002,
-        "name_in_chinese": "黄月英"
+        "name_in_chinese": "黄月英",
+        "gender_as_number": 20
     },
     {
         "id": 1100627,
@@ -11040,7 +11448,8 @@ var array_data_general = [
         ],
         "prefectId": 2300006,
         "warlordId": 2200012,
-        "name_in_chinese": "关兴"
+        "name_in_chinese": "关兴",
+        "gender_as_number": 80
     },
     {
         "id": 1100643,
@@ -11067,7 +11476,8 @@ var array_data_general = [
         ],
         "prefectId": 2300003,
         "warlordId": 2200002,
-        "name_in_chinese": "姜维"
+        "name_in_chinese": "姜维",
+        "gender_as_number": 80
     },
     {
         "id": 1100609,
@@ -11094,7 +11504,8 @@ var array_data_general = [
         ],
         "prefectId": 2300002,
         "warlordId": 2200021,
-        "name_in_chinese": "诸葛亮"
+        "name_in_chinese": "诸葛亮",
+        "gender_as_number": 80
     },
     {
         "id": 1100302,
@@ -11121,7 +11532,8 @@ var array_data_general = [
         ],
         "prefectId": 2300014,
         "warlordId": 2200006,
-        "name_in_chinese": "毛玠"
+        "name_in_chinese": "毛玠",
+        "gender_as_number": 80
     },
     {
         "id": 1100797,
@@ -11148,7 +11560,8 @@ var array_data_general = [
         ],
         "prefectId": 2300013,
         "warlordId": 2200020,
-        "name_in_chinese": "杨芷"
+        "name_in_chinese": "杨芷",
+        "gender_as_number": 20
     },
     {
         "id": 1100723,
@@ -11175,7 +11588,8 @@ var array_data_general = [
         ],
         "prefectId": 2300009,
         "warlordId": 2200018,
-        "name_in_chinese": "杨修"
+        "name_in_chinese": "杨修",
+        "gender_as_number": 80
     },
     {
         "id": 1100346,
@@ -11202,7 +11616,8 @@ var array_data_general = [
         ],
         "prefectId": 2300010,
         "warlordId": 2200018,
-        "name_in_chinese": "杨济"
+        "name_in_chinese": "杨济",
+        "gender_as_number": 80
     },
     {
         "id": 1100452,
@@ -11229,7 +11644,8 @@ var array_data_general = [
         ],
         "prefectId": 2300003,
         "warlordId": 2200046,
-        "name_in_chinese": "夏侯和"
+        "name_in_chinese": "夏侯和",
+        "gender_as_number": 80
     },
     {
         "id": 1100313,
@@ -11256,7 +11672,8 @@ var array_data_general = [
         ],
         "prefectId": 2300009,
         "warlordId": 2200039,
-        "name_in_chinese": "司马朗"
+        "name_in_chinese": "司马朗",
+        "gender_as_number": 80
     },
     {
         "id": 1100798,
@@ -11283,7 +11700,8 @@ var array_data_general = [
         ],
         "prefectId": 2300003,
         "warlordId": 2200044,
-        "name_in_chinese": "夏侯徽"
+        "name_in_chinese": "夏侯徽",
+        "gender_as_number": 20
     },
     {
         "id": 1100278,
@@ -11310,7 +11728,8 @@ var array_data_general = [
         ],
         "prefectId": 2300009,
         "warlordId": 2200018,
-        "name_in_chinese": "毌丘俭"
+        "name_in_chinese": "毌丘俭",
+        "gender_as_number": 80
     },
     {
         "id": 1100482,
@@ -11337,7 +11756,8 @@ var array_data_general = [
         ],
         "prefectId": 2300015,
         "warlordId": 2200002,
-        "name_in_chinese": "张春华"
+        "name_in_chinese": "张春华",
+        "gender_as_number": 20
     },
     {
         "id": 1100799,
@@ -11364,7 +11784,8 @@ var array_data_general = [
         ],
         "prefectId": 2300001,
         "warlordId": 2200027,
-        "name_in_chinese": "羊徽瑜"
+        "name_in_chinese": "羊徽瑜",
+        "gender_as_number": 20
     },
     {
         "id": 1100474,
@@ -11391,7 +11812,8 @@ var array_data_general = [
         ],
         "prefectId": 2300003,
         "warlordId": 2200039,
-        "name_in_chinese": "贾南风"
+        "name_in_chinese": "贾南风",
+        "gender_as_number": 20
     },
     {
         "id": 1100448,
@@ -11418,7 +11840,8 @@ var array_data_general = [
         ],
         "prefectId": 2300009,
         "warlordId": 2200029,
-        "name_in_chinese": "夏侯尚"
+        "name_in_chinese": "夏侯尚",
+        "gender_as_number": 80
     },
     {
         "id": 1100363,
@@ -11445,7 +11868,8 @@ var array_data_general = [
         ],
         "prefectId": 2300008,
         "warlordId": 2200007,
-        "name_in_chinese": "王基"
+        "name_in_chinese": "王基",
+        "gender_as_number": 80
     },
     {
         "id": 1100450,
@@ -11472,7 +11896,8 @@ var array_data_general = [
         ],
         "prefectId": 2300011,
         "warlordId": 2200031,
-        "name_in_chinese": "夏侯玄"
+        "name_in_chinese": "夏侯玄",
+        "gender_as_number": 80
     },
     {
         "id": 1100792,
@@ -11499,7 +11924,8 @@ var array_data_general = [
         ],
         "prefectId": 2300007,
         "warlordId": 2200046,
-        "name_in_chinese": "王双"
+        "name_in_chinese": "王双",
+        "gender_as_number": 80
     },
     {
         "id": 1100465,
@@ -11526,7 +11952,8 @@ var array_data_general = [
         ],
         "prefectId": 2300011,
         "warlordId": 2200031,
-        "name_in_chinese": "皇甫嵩"
+        "name_in_chinese": "皇甫嵩",
+        "gender_as_number": 80
     },
     {
         "id": 1100316,
@@ -11553,7 +11980,8 @@ var array_data_general = [
         ],
         "prefectId": 2300012,
         "warlordId": 2200044,
-        "name_in_chinese": "司马昭"
+        "name_in_chinese": "司马昭",
+        "gender_as_number": 80
     },
     {
         "id": 1100315,
@@ -11580,7 +12008,8 @@ var array_data_general = [
         ],
         "prefectId": 2300013,
         "warlordId": 2200026,
-        "name_in_chinese": "司马师"
+        "name_in_chinese": "司马师",
+        "gender_as_number": 80
     },
     {
         "id": 1100295,
@@ -11607,7 +12036,8 @@ var array_data_general = [
         ],
         "prefectId": 2300007,
         "warlordId": 2200039,
-        "name_in_chinese": "杜预"
+        "name_in_chinese": "杜预",
+        "gender_as_number": 80
     },
     {
         "id": 1100317,
@@ -11634,7 +12064,8 @@ var array_data_general = [
         ],
         "prefectId": 2300007,
         "warlordId": 2200044,
-        "name_in_chinese": "司马炎"
+        "name_in_chinese": "司马炎",
+        "gender_as_number": 80
     },
     {
         "id": 1100471,
@@ -11661,7 +12092,8 @@ var array_data_general = [
         ],
         "prefectId": 2300001,
         "warlordId": 2200024,
-        "name_in_chinese": "王元姫"
+        "name_in_chinese": "王元姫",
+        "gender_as_number": 20
     },
     {
         "id": 1100698,
@@ -11688,7 +12120,8 @@ var array_data_general = [
         ],
         "prefectId": 2300011,
         "warlordId": 2200029,
-        "name_in_chinese": "曹性"
+        "name_in_chinese": "曹性",
+        "gender_as_number": 80
     },
     {
         "id": 1100705,
@@ -11715,7 +12148,8 @@ var array_data_general = [
         ],
         "prefectId": 2300004,
         "warlordId": 2200017,
-        "name_in_chinese": "李傕"
+        "name_in_chinese": "李傕",
+        "gender_as_number": 80
     },
     {
         "id": 1100707,
@@ -11742,7 +12176,8 @@ var array_data_general = [
         ],
         "prefectId": 2300014,
         "warlordId": 2200043,
-        "name_in_chinese": "樊稠"
+        "name_in_chinese": "樊稠",
+        "gender_as_number": 80
     },
     {
         "id": 1100697,
@@ -11769,7 +12204,8 @@ var array_data_general = [
         ],
         "prefectId": 2300004,
         "warlordId": 2200008,
-        "name_in_chinese": "侯成"
+        "name_in_chinese": "侯成",
+        "gender_as_number": 80
     },
     {
         "id": 1100709,
@@ -11796,7 +12232,8 @@ var array_data_general = [
         ],
         "prefectId": 2300009,
         "warlordId": 2200003,
-        "name_in_chinese": "李肃"
+        "name_in_chinese": "李肃",
+        "gender_as_number": 80
     },
     {
         "id": 1100694,
@@ -11823,7 +12260,8 @@ var array_data_general = [
         ],
         "prefectId": 2300006,
         "warlordId": 2200034,
-        "name_in_chinese": "魏续"
+        "name_in_chinese": "魏续",
+        "gender_as_number": 80
     },
     {
         "id": 1100695,
@@ -11850,7 +12288,8 @@ var array_data_general = [
         ],
         "prefectId": 2300013,
         "warlordId": 2200034,
-        "name_in_chinese": "宋宪"
+        "name_in_chinese": "宋宪",
+        "gender_as_number": 80
     },
     {
         "id": 1100703,
@@ -11877,7 +12316,8 @@ var array_data_general = [
         ],
         "prefectId": 2300010,
         "warlordId": 2200043,
-        "name_in_chinese": "郭汜"
+        "name_in_chinese": "郭汜",
+        "gender_as_number": 80
     },
     {
         "id": 1100481,
@@ -11904,7 +12344,8 @@ var array_data_general = [
         ],
         "prefectId": 2300001,
         "warlordId": 2200027,
-        "name_in_chinese": "吕玲绮"
+        "name_in_chinese": "吕玲绮",
+        "gender_as_number": 20
     },
     {
         "id": 1100699,
@@ -11931,7 +12372,8 @@ var array_data_general = [
         ],
         "prefectId": 2300009,
         "warlordId": 2200043,
-        "name_in_chinese": "臧霸"
+        "name_in_chinese": "臧霸",
+        "gender_as_number": 80
     },
     {
         "id": 1110005,
@@ -11958,7 +12400,8 @@ var array_data_general = [
         ],
         "prefectId": 2300009,
         "warlordId": 2200035,
-        "name_in_chinese": "胡轸"
+        "name_in_chinese": "胡轸",
+        "gender_as_number": 80
     },
     {
         "id": 1100706,
@@ -11985,7 +12428,8 @@ var array_data_general = [
         ],
         "prefectId": 2300014,
         "warlordId": 2200018,
-        "name_in_chinese": "李儒"
+        "name_in_chinese": "李儒",
+        "gender_as_number": 80
     },
     {
         "id": 1100741,
@@ -12012,7 +12456,8 @@ var array_data_general = [
         ],
         "prefectId": 2300013,
         "warlordId": 2200020,
-        "name_in_chinese": "遂高"
+        "name_in_chinese": "遂高",
+        "gender_as_number": 80
     },
     {
         "id": 1100725,
@@ -12039,7 +12484,8 @@ var array_data_general = [
         ],
         "prefectId": 2300006,
         "warlordId": 2200029,
-        "name_in_chinese": "王允"
+        "name_in_chinese": "王允",
+        "gender_as_number": 80
     },
     {
         "id": 1100393,
@@ -12066,7 +12512,8 @@ var array_data_general = [
         ],
         "prefectId": 2300007,
         "warlordId": 2200006,
-        "name_in_chinese": "张邈"
+        "name_in_chinese": "张邈",
+        "gender_as_number": 80
     },
     {
         "id": 1100704,
@@ -12093,7 +12540,8 @@ var array_data_general = [
         ],
         "prefectId": 2300007,
         "warlordId": 2200043,
-        "name_in_chinese": "徐荣"
+        "name_in_chinese": "徐荣",
+        "gender_as_number": 80
     },
     {
         "id": 1100701,
@@ -12120,7 +12568,8 @@ var array_data_general = [
         ],
         "prefectId": 2300003,
         "warlordId": 2200047,
-        "name_in_chinese": "董卓"
+        "name_in_chinese": "董卓",
+        "gender_as_number": 80
     },
     {
         "id": 1100696,
@@ -12147,7 +12596,8 @@ var array_data_general = [
         ],
         "prefectId": 2300007,
         "warlordId": 2200029,
-        "name_in_chinese": "高顺"
+        "name_in_chinese": "高顺",
+        "gender_as_number": 80
     },
     {
         "id": 1100700,
@@ -12174,7 +12624,8 @@ var array_data_general = [
         ],
         "prefectId": 2300006,
         "warlordId": 2200029,
-        "name_in_chinese": "陈宫"
+        "name_in_chinese": "陈宫",
+        "gender_as_number": 80
     },
     {
         "id": 1100708,
@@ -12201,7 +12652,8 @@ var array_data_general = [
         ],
         "prefectId": 2300006,
         "warlordId": 2200048,
-        "name_in_chinese": "华雄"
+        "name_in_chinese": "华雄",
+        "gender_as_number": 80
     },
     {
         "id": 1100693,
@@ -12228,7 +12680,8 @@ var array_data_general = [
         ],
         "prefectId": 2300001,
         "warlordId": 2200047,
-        "name_in_chinese": "吕布"
+        "name_in_chinese": "吕布",
+        "gender_as_number": 80
     },
     {
         "id": 1101009,
@@ -12255,7 +12708,8 @@ var array_data_general = [
         ],
         "prefectId": 2300016,
         "warlordId": 2200006,
-        "name_in_chinese": "张柏"
+        "name_in_chinese": "张柏",
+        "gender_as_number": 80
     },
     {
         "id": 1101011,
@@ -12282,7 +12736,8 @@ var array_data_general = [
         ],
         "prefectId": 2300006,
         "warlordId": 2200003,
-        "name_in_chinese": "杨震"
+        "name_in_chinese": "杨震",
+        "gender_as_number": 80
     },
     {
         "id": 1101008,
@@ -12309,7 +12764,8 @@ var array_data_general = [
         ],
         "prefectId": 2300011,
         "warlordId": 2200012,
-        "name_in_chinese": "司准"
+        "name_in_chinese": "司准",
+        "gender_as_number": 80
     },
     {
         "id": 1101015,
@@ -12336,7 +12792,8 @@ var array_data_general = [
         ],
         "prefectId": 2300002,
         "warlordId": 2200015,
-        "name_in_chinese": "郭振"
+        "name_in_chinese": "郭振",
+        "gender_as_number": 80
     },
     {
         "id": 1101013,
@@ -12363,7 +12820,8 @@ var array_data_general = [
         ],
         "prefectId": 2300009,
         "warlordId": 2200011,
-        "name_in_chinese": "放禅"
+        "name_in_chinese": "放禅",
+        "gender_as_number": 20
     },
     {
         "id": 1101010,
@@ -12390,7 +12848,8 @@ var array_data_general = [
         ],
         "prefectId": 2300004,
         "warlordId": 2200020,
-        "name_in_chinese": "贾环"
+        "name_in_chinese": "贾环",
+        "gender_as_number": 80
     },
     {
         "id": 1101014,
@@ -12417,7 +12876,8 @@ var array_data_general = [
         ],
         "prefectId": 2300014,
         "warlordId": 2200017,
-        "name_in_chinese": "耿武"
+        "name_in_chinese": "耿武",
+        "gender_as_number": 80
     },
     {
         "id": 1101012,
@@ -12444,7 +12904,8 @@ var array_data_general = [
         ],
         "prefectId": 2300011,
         "warlordId": 2200008,
-        "name_in_chinese": "李来"
+        "name_in_chinese": "李来",
+        "gender_as_number": 20
     },
     {
         "id": 1101007,
@@ -12471,7 +12932,8 @@ var array_data_general = [
         ],
         "prefectId": 2300001,
         "warlordId": 2200004,
-        "name_in_chinese": "刘华"
+        "name_in_chinese": "刘华",
+        "gender_as_number": 20
     },
     {
         "id": 1101045,
@@ -12498,7 +12960,8 @@ var array_data_general = [
         ],
         "prefectId": 2300006,
         "warlordId": 2200049,
-        "name_in_chinese": "夏侯惇"
+        "name_in_chinese": "夏侯惇",
+        "gender_as_number": 80
     },
     {
         "id": 1101046,
@@ -12525,7 +12988,8 @@ var array_data_general = [
         ],
         "prefectId": 2300004,
         "warlordId": 2200021,
-        "name_in_chinese": "卞月香"
+        "name_in_chinese": "卞月香",
+        "gender_as_number": 20
     },
     {
         "id": 1101044,
@@ -12552,7 +13016,8 @@ var array_data_general = [
         ],
         "prefectId": 2300003,
         "warlordId": 2200024,
-        "name_in_chinese": "曹操"
+        "name_in_chinese": "曹操",
+        "gender_as_number": 80
     },
     {
         "id": 1101079,
@@ -12579,7 +13044,8 @@ var array_data_general = [
         ],
         "prefectId": 2300009,
         "warlordId": 2200026,
-        "name_in_chinese": "灌婴"
+        "name_in_chinese": "灌婴",
+        "gender_as_number": 80
     },
     {
         "id": 1101077,
@@ -12606,7 +13072,8 @@ var array_data_general = [
         ],
         "prefectId": 2300012,
         "warlordId": 2200047,
-        "name_in_chinese": "王陵"
+        "name_in_chinese": "王陵",
+        "gender_as_number": 80
     },
     {
         "id": 1101078,
@@ -12633,7 +13100,8 @@ var array_data_general = [
         ],
         "prefectId": 2300003,
         "warlordId": 2200024,
-        "name_in_chinese": "陈平"
+        "name_in_chinese": "陈平",
+        "gender_as_number": 80
     },
     {
         "id": 1101080,
@@ -12660,7 +13128,8 @@ var array_data_general = [
         ],
         "prefectId": 2300004,
         "warlordId": 2200049,
-        "name_in_chinese": "吕雉"
+        "name_in_chinese": "吕雉",
+        "gender_as_number": 20
     },
     {
         "id": 1100856,
@@ -12687,7 +13156,8 @@ var array_data_general = [
         ],
         "prefectId": 2300007,
         "warlordId": 2200007,
-        "name_in_chinese": "彭越"
+        "name_in_chinese": "彭越",
+        "gender_as_number": 80
     },
     {
         "id": 1100855,
@@ -12714,7 +13184,8 @@ var array_data_general = [
         ],
         "prefectId": 2300007,
         "warlordId": 2200045,
-        "name_in_chinese": "周勃"
+        "name_in_chinese": "周勃",
+        "gender_as_number": 80
     },
     {
         "id": 1100854,
@@ -12741,7 +13212,8 @@ var array_data_general = [
         ],
         "prefectId": 2300012,
         "warlordId": 2200045,
-        "name_in_chinese": "曹参"
+        "name_in_chinese": "曹参",
+        "gender_as_number": 80
     },
     {
         "id": 1100853,
@@ -12768,7 +13240,8 @@ var array_data_general = [
         ],
         "prefectId": 2300004,
         "warlordId": 2200048,
-        "name_in_chinese": "夏侯婴"
+        "name_in_chinese": "夏侯婴",
+        "gender_as_number": 80
     },
     {
         "id": 1100851,
@@ -12795,7 +13268,8 @@ var array_data_general = [
         ],
         "prefectId": 2300006,
         "warlordId": 2200024,
-        "name_in_chinese": "萧何"
+        "name_in_chinese": "萧何",
+        "gender_as_number": 80
     },
     {
         "id": 1100852,
@@ -12822,7 +13296,8 @@ var array_data_general = [
         ],
         "prefectId": 2300005,
         "warlordId": 2200047,
-        "name_in_chinese": "樊哙"
+        "name_in_chinese": "樊哙",
+        "gender_as_number": 80
     },
     {
         "id": 1100850,
@@ -12849,7 +13324,8 @@ var array_data_general = [
         ],
         "prefectId": 2300003,
         "warlordId": 2200049,
-        "name_in_chinese": "韩信"
+        "name_in_chinese": "韩信",
+        "gender_as_number": 80
     },
     {
         "id": 1100849,
@@ -12876,7 +13352,8 @@ var array_data_general = [
         ],
         "prefectId": 2300001,
         "warlordId": 2200002,
-        "name_in_chinese": "张梁"
+        "name_in_chinese": "张梁",
+        "gender_as_number": 80
     },
     {
         "id": 1100848,
@@ -12903,7 +13380,8 @@ var array_data_general = [
         ],
         "prefectId": 2300002,
         "warlordId": 2200021,
-        "name_in_chinese": "刘邦"
+        "name_in_chinese": "刘邦",
+        "gender_as_number": 80
     },
     {
         "id": 1101089,
@@ -12930,7 +13408,8 @@ var array_data_general = [
         ],
         "prefectId": 2300005,
         "warlordId": 2200026,
-        "name_in_chinese": "项伯"
+        "name_in_chinese": "项伯",
+        "gender_as_number": 80
     },
     {
         "id": 1101090,
@@ -12957,7 +13436,8 @@ var array_data_general = [
         ],
         "prefectId": 2300006,
         "warlordId": 2200049,
-        "name_in_chinese": "项梁"
+        "name_in_chinese": "项梁",
+        "gender_as_number": 80
     },
     {
         "id": 1101073,
@@ -12984,7 +13464,8 @@ var array_data_general = [
         ],
         "prefectId": 2300006,
         "warlordId": 2200018,
-        "name_in_chinese": "于英"
+        "name_in_chinese": "于英",
+        "gender_as_number": 80
     },
     {
         "id": 1101072,
@@ -13011,7 +13492,8 @@ var array_data_general = [
         ],
         "prefectId": 2300012,
         "warlordId": 2200047,
-        "name_in_chinese": "桓楚"
+        "name_in_chinese": "桓楚",
+        "gender_as_number": 80
     },
     {
         "id": 1101076,
@@ -13038,7 +13520,8 @@ var array_data_general = [
         ],
         "prefectId": 2300011,
         "warlordId": 2200023,
-        "name_in_chinese": "周兰"
+        "name_in_chinese": "周兰",
+        "gender_as_number": 80
     },
     {
         "id": 1101075,
@@ -13065,7 +13548,8 @@ var array_data_general = [
         ],
         "prefectId": 2300010,
         "warlordId": 2200022,
-        "name_in_chinese": "季布"
+        "name_in_chinese": "季布",
+        "gender_as_number": 80
     },
     {
         "id": 1100871,
@@ -13092,7 +13576,8 @@ var array_data_general = [
         ],
         "prefectId": 2300008,
         "warlordId": 2200010,
-        "name_in_chinese": "龙且"
+        "name_in_chinese": "龙且",
+        "gender_as_number": 80
     },
     {
         "id": 1101074,
@@ -13119,7 +13604,8 @@ var array_data_general = [
         ],
         "prefectId": 2300005,
         "warlordId": 2200024,
-        "name_in_chinese": "钟离牧"
+        "name_in_chinese": "钟离牧",
+        "gender_as_number": 80
     },
     {
         "id": 1100870,
@@ -13146,7 +13632,8 @@ var array_data_general = [
         ],
         "prefectId": 2300006,
         "warlordId": 2200035,
-        "name_in_chinese": "英布"
+        "name_in_chinese": "英布",
+        "gender_as_number": 80
     },
     {
         "id": 1100868,
@@ -13173,7 +13660,8 @@ var array_data_general = [
         ],
         "prefectId": 2300003,
         "warlordId": 2200024,
-        "name_in_chinese": "范増"
+        "name_in_chinese": "范増",
+        "gender_as_number": 80
     },
     {
         "id": 1100869,
@@ -13200,7 +13688,8 @@ var array_data_general = [
         ],
         "prefectId": 2300011,
         "warlordId": 2200008,
-        "name_in_chinese": "虞姫"
+        "name_in_chinese": "虞姫",
+        "gender_as_number": 20
     },
     {
         "id": 1100867,
@@ -13227,7 +13716,8 @@ var array_data_general = [
         ],
         "prefectId": 2300003,
         "warlordId": 2200049,
-        "name_in_chinese": "项籍"
+        "name_in_chinese": "项籍",
+        "gender_as_number": 80
     },
     {
         "id": 1101161,
@@ -13254,7 +13744,8 @@ var array_data_general = [
         ],
         "prefectId": 2300004,
         "warlordId": 2200021,
-        "name_in_chinese": "赵玲"
+        "name_in_chinese": "赵玲",
+        "gender_as_number": 20
     },
     {
         "id": 1101162,
@@ -13281,7 +13772,8 @@ var array_data_general = [
         ],
         "prefectId": 2300008,
         "warlordId": 2200006,
-        "name_in_chinese": "王韬"
+        "name_in_chinese": "王韬",
+        "gender_as_number": 20
     },
     {
         "id": 1101163,
@@ -13308,7 +13800,8 @@ var array_data_general = [
         ],
         "prefectId": 2300003,
         "warlordId": 2200047,
-        "name_in_chinese": "董白"
+        "name_in_chinese": "董白",
+        "gender_as_number": 20
     },
     {
         "id": 1101164,
@@ -13335,7 +13828,8 @@ var array_data_general = [
         ],
         "prefectId": 2300006,
         "warlordId": 2200022,
-        "name_in_chinese": "王烈"
+        "name_in_chinese": "王烈",
+        "gender_as_number": 20
     },
     {
         "id": 1101160,
@@ -13362,7 +13856,8 @@ var array_data_general = [
         ],
         "prefectId": 2300005,
         "warlordId": 2200005,
-        "name_in_chinese": "阿玲"
+        "name_in_chinese": "阿玲",
+        "gender_as_number": 20
     },
     {
         "id": 1101227,
@@ -13389,7 +13884,8 @@ var array_data_general = [
         ],
         "prefectId": 2300006,
         "warlordId": 2200018,
-        "name_in_chinese": "郭女王"
+        "name_in_chinese": "郭女王",
+        "gender_as_number": 20
     },
     {
         "id": 1101228,
@@ -13416,7 +13912,8 @@ var array_data_general = [
         ],
         "prefectId": 2300004,
         "warlordId": 2200015,
-        "name_in_chinese": "张世娟"
+        "name_in_chinese": "张世娟",
+        "gender_as_number": 20
     },
     {
         "id": 1101229,
@@ -13443,7 +13940,8 @@ var array_data_general = [
         ],
         "prefectId": 2300003,
         "warlordId": 2200011,
-        "name_in_chinese": "郑安"
+        "name_in_chinese": "郑安",
+        "gender_as_number": 20
     },
     {
         "id": 1101230,
@@ -13470,7 +13968,8 @@ var array_data_general = [
         ],
         "prefectId": 2300009,
         "warlordId": 2200012,
-        "name_in_chinese": "姜熙"
+        "name_in_chinese": "姜熙",
+        "gender_as_number": 20
     },
     {
         "id": 1101223,
@@ -13497,7 +13996,8 @@ var array_data_general = [
         ],
         "prefectId": 2300001,
         "warlordId": 2200001,
-        "name_in_chinese": "白永"
+        "name_in_chinese": "白永",
+        "gender_as_number": 20
     },
     {
         "id": 1101224,
@@ -13524,7 +14024,8 @@ var array_data_general = [
         ],
         "prefectId": 2300008,
         "warlordId": 2200024,
-        "name_in_chinese": "司马衷"
+        "name_in_chinese": "司马衷",
+        "gender_as_number": 80
     },
     {
         "id": 1101225,
@@ -13551,7 +14052,8 @@ var array_data_general = [
         ],
         "prefectId": 2300009,
         "warlordId": 2200014,
-        "name_in_chinese": "贾充"
+        "name_in_chinese": "贾充",
+        "gender_as_number": 80
     },
     {
         "id": 1101226,
@@ -13578,7 +14080,8 @@ var array_data_general = [
         ],
         "prefectId": 2300010,
         "warlordId": 2200023,
-        "name_in_chinese": "司马伦"
+        "name_in_chinese": "司马伦",
+        "gender_as_number": 80
     },
     {
         "id": 1101222,
@@ -13605,7 +14108,8 @@ var array_data_general = [
         ],
         "prefectId": 2300002,
         "warlordId": 2200021,
-        "name_in_chinese": "贾南风"
+        "name_in_chinese": "贾南风",
+        "gender_as_number": 20
     },
     {
         "id": 1101350,
@@ -13632,7 +14136,8 @@ var array_data_general = [
         ],
         "prefectId": 2300003,
         "warlordId": 2200021,
-        "name_in_chinese": "瀛政"
+        "name_in_chinese": "瀛政",
+        "gender_as_number": 80
     },
     {
         "id": 1101351,
@@ -13659,7 +14164,8 @@ var array_data_general = [
         ],
         "prefectId": 2300001,
         "warlordId": 2200001,
-        "name_in_chinese": "吕不韦"
+        "name_in_chinese": "吕不韦",
+        "gender_as_number": 80
     },
     {
         "id": 1101352,
@@ -13686,7 +14192,8 @@ var array_data_general = [
         ],
         "prefectId": 2300013,
         "warlordId": 2200027,
-        "name_in_chinese": "白起"
+        "name_in_chinese": "白起",
+        "gender_as_number": 80
     },
     {
         "id": 1101353,
@@ -13713,7 +14220,8 @@ var array_data_general = [
         ],
         "prefectId": 2300014,
         "warlordId": 2200042,
-        "name_in_chinese": "王异"
+        "name_in_chinese": "王异",
+        "gender_as_number": 80
     },
     {
         "id": 1101354,
@@ -13740,7 +14248,8 @@ var array_data_general = [
         ],
         "prefectId": 2300002,
         "warlordId": 2200002,
-        "name_in_chinese": "昌平君"
+        "name_in_chinese": "昌平君",
+        "gender_as_number": 80
     },
     {
         "id": 1101355,
@@ -13767,7 +14276,8 @@ var array_data_general = [
         ],
         "prefectId": 2300014,
         "warlordId": 2200043,
-        "name_in_chinese": "蒙武"
+        "name_in_chinese": "蒙武",
+        "gender_as_number": 80
     },
     {
         "id": 1101356,
@@ -13794,7 +14304,8 @@ var array_data_general = [
         ],
         "prefectId": 2300006,
         "warlordId": 2200048,
-        "name_in_chinese": "蒙恬"
+        "name_in_chinese": "蒙恬",
+        "gender_as_number": 80
     },
     {
         "id": 1101357,
@@ -13821,7 +14332,8 @@ var array_data_general = [
         ],
         "prefectId": 2300009,
         "warlordId": 2200003,
-        "name_in_chinese": "王翦"
+        "name_in_chinese": "王翦",
+        "gender_as_number": 80
     },
     {
         "id": 1101358,
@@ -13848,7 +14360,8 @@ var array_data_general = [
         ],
         "prefectId": 2300001,
         "warlordId": 2200001,
-        "name_in_chinese": "王贲"
+        "name_in_chinese": "王贲",
+        "gender_as_number": 80
     },
     {
         "id": 1101359,
@@ -13875,7 +14388,8 @@ var array_data_general = [
         ],
         "prefectId": 2300009,
         "warlordId": 2200011,
-        "name_in_chinese": "李信"
+        "name_in_chinese": "李信",
+        "gender_as_number": 80
     },
     {
         "id": 1101360,
@@ -13902,7 +14416,8 @@ var array_data_general = [
         ],
         "prefectId": 2300010,
         "warlordId": 2200023,
-        "name_in_chinese": "李斯"
+        "name_in_chinese": "李斯",
+        "gender_as_number": 80
     },
     {
         "id": 1101361,
@@ -13929,7 +14444,8 @@ var array_data_general = [
         ],
         "prefectId": 2300007,
         "warlordId": 2200043,
-        "name_in_chinese": "赵姬"
+        "name_in_chinese": "赵姬",
+        "gender_as_number": 20
     },
     {
         "id": 1101362,
@@ -13956,7 +14472,8 @@ var array_data_general = [
         ],
         "prefectId": 2300013,
         "warlordId": 2200046,
-        "name_in_chinese": "徐福"
+        "name_in_chinese": "徐福",
+        "gender_as_number": 80
     },
     {
         "id": 1101363,
@@ -13983,6 +14500,7 @@ var array_data_general = [
         ],
         "prefectId": 2300008,
         "warlordId": 2200020,
-        "name_in_chinese": "庐江"
+        "name_in_chinese": "庐江",
+        "gender_as_number": 20
     }
 ]

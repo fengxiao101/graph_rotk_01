@@ -1,10 +1,10 @@
 class Class_Grid extends Class_Sprite{
-    constructor(canvas, context, a_axis_title_x="title_x", a_axis_title_y="title_y", origin_x=40, origin_y=40, color="Black"){
+    constructor(canvas, context, a_stats_x="stats_x", a_stats_y="stats_y", origin_x=40, origin_y=40, color="Black"){
         // x and y are measured with respect to the bottom left corner of the canvas in pixels
         super(canvas, context, origin_x, origin_y, canvas.width, canvas.height, color);
 
-        this.axis_title_x = a_axis_title_x;
-        this.axis_title_y = a_axis_title_y;
+        this.stats_x = a_stats_x;
+        this.stats_y = a_stats_y;
 
         this.tick_separation_math = new Class_Vector(1, 1); 
         this.tick_separation_grid = new Class_Vector(50, 50);
@@ -36,6 +36,15 @@ class Class_Grid extends Class_Sprite{
     set origin_y(a_origin_y){
         this.y = a_origin_y;
     }
+
+    get axis_title_x(){
+        return array_stats_full_name[array_stats_type.indexOf(this.stats_x)];
+    }
+
+    get axis_title_y(){
+        return array_stats_full_name[array_stats_type.indexOf(this.stats_y)];
+    }
+
 
 
     get x_grid_min(){
@@ -81,46 +90,49 @@ class Class_Grid extends Class_Sprite{
     }
 
     draw(){
-        this.draw_grid();
-        this.draw_axis();
-        this.draw_axis_title();
+        this.context.save();
+            this.context.translate(this.origin_x, this.origin_y);
+            this.draw_grid();
+            this.draw_axis();
+            this.draw_axis_title();
+        this.context.restore();
     }
 
     draw_axis(){
-        context.save();
-            context.beginPath();
-            context.moveTo(this.x_grid_min, 0);
-            context.lineTo(this.x_grid_max, 0);
+        this.context.save();
+            this.context.beginPath();
+            this.context.moveTo(this.x_grid_min, 0);
+            this.context.lineTo(this.x_grid_max, 0);
 
-            context.moveTo(0, this.y_grid_min);
-            context.lineTo(0, this.y_grid_max);
-            context.lineWidth = 3;
-            context.strokeStyle = this.color;
-            context.stroke();
-        context.restore();
+            this.context.moveTo(0, this.y_grid_min);
+            this.context.lineTo(0, this.y_grid_max);
+            this.context.lineWidth = 3;
+            this.context.strokeStyle = this.color;
+            this.context.stroke();
+        this.context.restore();
     }
 
     draw_axis_title(){
         // x-axis title
-        context.save();
-            context.translate(this.x_grid_max/2, -23);
-            context.scale(1, -1);
-            context.textAlign = "center";
-            context.textBaseline = "middle";
-            context.font = "15px Arial";
-            context.fillText(this.axis_title_x, 0, 0);
-        context.restore();
+        this.context.save();
+            this.context.translate(this.x_grid_max/2, -23);
+            this.context.scale(1, -1);
+            this.context.textAlign = "center";
+            this.context.textBaseline = "middle";
+            this.context.font = "15px Arial";
+            this.context.fillText(this.axis_title_x, 0, 0);
+        this.context.restore();
 
         // y-axis title
-        context.save();
-            context.translate(-23, this.y_grid_max/2);
-            context.rotate(Math.PI / 2);
-            context.scale(1, -1);
-            context.textAlign = "center";
-            context.textBaseline = "middle";
-            context.font = "15px Arial";
-            context.fillText(this.axis_title_y, 0, 0);
-        context.restore();
+        this.context.save();
+            this.context.translate(-23, this.y_grid_max/2);
+            this.context.rotate(Math.PI / 2);
+            this.context.scale(1, -1);
+            this.context.textAlign = "center";
+            this.context.textBaseline = "middle";
+            this.context.font = "15px Arial";
+            this.context.fillText(this.axis_title_y, 0, 0);
+        this.context.restore();
     }
 
     draw_grid(){
@@ -145,14 +157,14 @@ class Class_Grid extends Class_Sprite{
             this.draw_one_vertical_grid_line(x_grid);
 
             if (n != 0){
-                context.save();
-                    context.translate(x_grid, 0);
-                    context.scale(1, -1);
-                    context.textBaseline = "top";
-                    context.textAlign = "center";
-                    context.translate(0, 2);
-                    context.fillText((n*this.tick_separation_math.x).toFixed(this.precision.x), 0, 0);
-                context.restore();
+                this.context.save();
+                    this.context.translate(x_grid, 0);
+                    this.context.scale(1, -1);
+                    this.context.textBaseline = "top";
+                    this.context.textAlign = "center";
+                    this.context.translate(0, 2);
+                    this.context.fillText((n*this.tick_separation_math.x).toFixed(this.precision.x), 0, 0);
+                this.context.restore();
             }
 
             n++;
@@ -167,14 +179,14 @@ class Class_Grid extends Class_Sprite{
             this.draw_one_horizontal_grid_line(y_grid);
             
             if(n != 0){
-                context.save();
-                    context.translate(0, y_grid);
-                    context.scale(1, -1);
-                    context.textBaseline = "middle";
-                    context.textAlign = "right";
-                    context.translate(-3, 0);
-                    context.fillText((n*this.tick_separation_math.y).toFixed(this.precision.y), 0, 0);
-                context.restore();
+                this.context.save();
+                    this.context.translate(0, y_grid);
+                    this.context.scale(1, -1);
+                    this.context.textBaseline = "middle";
+                    this.context.textAlign = "right";
+                    this.context.translate(-3, 0);
+                    this.context.fillText((n*this.tick_separation_math.y).toFixed(this.precision.y), 0, 0);
+                this.context.restore();
             }
 
             n++;
@@ -183,25 +195,25 @@ class Class_Grid extends Class_Sprite{
     }
 
     draw_one_vertical_grid_line(a_x_grid){
-        context.save();
-            context.beginPath();
-            context.moveTo(a_x_grid, this.y_grid_min);
-            context.lineTo(a_x_grid, this.y_grid_max);
-            context.strokeStyle = "White";
-            context.lineWidth = 2;
-            context.stroke();
-        context.restore();
+        this.context.save();
+            this.context.beginPath();
+            this.context.moveTo(a_x_grid, this.y_grid_min);
+            this.context.lineTo(a_x_grid, this.y_grid_max);
+            this.context.strokeStyle = "White";
+            this.context.lineWidth = 2;
+            this.context.stroke();
+        this.context.restore();
     }
 
     draw_one_horizontal_grid_line(a_y_grid){
-        context.save();
-            context.beginPath();
-            context.moveTo(this.x_grid_min, a_y_grid);
-            context.lineTo(this.x_grid_max, a_y_grid);
-            context.strokeStyle = "White";
-            context.lineWidth = 2;
-            context.stroke();
-        context.restore();
+        this.context.save();
+            this.context.beginPath();
+            this.context.moveTo(this.x_grid_min, a_y_grid);
+            this.context.lineTo(this.x_grid_max, a_y_grid);
+            this.context.strokeStyle = "White";
+            this.context.lineWidth = 2;
+            this.context.stroke();
+        this.context.restore();
     }
 }
 
